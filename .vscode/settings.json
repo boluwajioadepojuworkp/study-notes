@@ -8,7 +8,7 @@
   "foam.graph.titleMaxLength": 60,
   "foam.openDailyNote.directory": "content/daily",
   "foam.openDailyNote.filenameFormat": "'daily'-yyyy-mm-dd",
-  "foam.openDailyNote.titleFormat": "'Daily Note —' yyyy-mm-dd",
+  "foam.openDailyNote.titleFormat": "'Daily Note :' yyyy-mm-dd",
   "markdown.extension.toc.levels": "2..4",
   "markdown.preview.breaks": true,
   "markdownlint.config": {

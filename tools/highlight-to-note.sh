@@ -1,5 +1,5 @@
 #!/bin/env bash
-# highlight-to-note.sh — Convert book/article highlights to Markdown study notes
+# highlight-to-note.sh : Convert book/article highlights to Markdown study notes
 # Adapted from Michael Neuper's koreader-org-converter (md2org.sh)
 # Original: https://github.com/michaelneuper/koreader-org-converter
 #

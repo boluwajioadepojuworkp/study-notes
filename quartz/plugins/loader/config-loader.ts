@@ -364,7 +364,7 @@ export async function loadQuartzConfig(
             await module.init(Object.keys(options).length > 0 ? options : undefined)
           }
         } catch (e) {
-          // Side-effect import failed — continue with manifest-based loading
+          // Side-effect import failed : continue with manifest-based loading
         }
         if (manifest?.components && Object.keys(manifest.components).length > 0) {
           await loadComponentsFromPackage(gitSpec.name, manifest)
@@ -523,7 +523,7 @@ type ProcessingCategory = "transformer" | "filter" | "emitter" | "pageType"
 
 /**
  * Validate that a plugin instance has the required methods for its declared category.
- * Called AFTER real instantiation — never used to probe/discover category.
+ * Called AFTER real instantiation : never used to probe/discover category.
  */
 function validateCategory(
   instance: Record<string, unknown>,
@@ -583,7 +583,7 @@ function findFactory(
           return fn as Function
         }
       } catch {
-        // This export doesn't work without args — skip it
+        // This export doesn't work without args : skip it
       }
     }
   }
@@ -621,7 +621,7 @@ function detectCategoryFromModule(module: unknown): ProcessingCategory | null {
           return "transformer"
       }
     } catch {
-      // Factory requires arguments or does I/O — cannot detect category by probing.
+      // Factory requires arguments or does I/O : cannot detect category by probing.
       // Plugin should declare category in package.json quartz.category field.
     }
   }
@@ -704,7 +704,7 @@ export async function loadQuartzLayout(layoutOverrides?: {
     const footerReg = componentRegistry.get("footer") ?? componentRegistry.get("Footer")
     if (footerReg) {
       if (typeof footerReg.component === "function" && !("displayName" in footerReg.component)) {
-        // It's a constructor — use registry cache for consistent instances
+        // It's a constructor : use registry cache for consistent instances
         const footerOverrides = componentRegistry.getOptionOverrides("footer")
         const opts = { ...footerEntry.options, ...footerOverrides }
         footer = componentRegistry.instantiate(
@@ -794,7 +794,7 @@ function buildLayoutForEntries(
 
     let component: QuartzComponent
     if (typeof reg.component === "function" && !("displayName" in reg.component)) {
-      // It's a constructor — use registry cache to avoid duplicate instances
+      // It's a constructor : use registry cache to avoid duplicate instances
       // (and duplicate afterDOMLoaded scripts) across page-type layouts
       const tsOverrides = componentRegistry.getOptionOverrides(name)
       const opts = { ...entry.options, ...tsOverrides }

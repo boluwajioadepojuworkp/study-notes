@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: My Study Notes
-  pageTitleSuffix: " — STEM Notes"
+  pageTitleSuffix: " : STEM Notes"
   enableSPA: true
   enablePopovers: true
   analytics: null
