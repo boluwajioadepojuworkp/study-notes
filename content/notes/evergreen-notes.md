@@ -1,7 +1,7 @@
 ---
 title: "Evergreen Notes: My System for Thinking in Writing"
 tags: [evergreen, note-writing, methodology, permanent-notes]
-date: 2026-07-23
+date: 2026-07-08
 ---
 
 An evergreen note is a note designed to live forever. Not to be filed away and forgotten. To be revisited, revised, and connected: constantly, over years, across every project and course I ever work on.

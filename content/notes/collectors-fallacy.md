@@ -1,4 +1,5 @@
 ---
+date: 2026-02-18
 title: "The Collector's Fallacy: Why Saving Is Not Learning"
 tags: [note-writing, reading, methodology]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Work Should Compound"
 tags: [knowledge, note-writing, methodology, thinking]
-date: 2026-07-23
+date: 2026-06-05
 ---
 
 Most knowledge work evaporates. You write a thoughtful email. You have an insight during a meeting. You solve a tricky problem. And then it is gone: living only in your memory, fading over days, contributing nothing to your future self.

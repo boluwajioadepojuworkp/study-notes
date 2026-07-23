@@ -306,7 +306,7 @@ Every note should follow this structure:
 ---
 title: Concept Name
 course: Course Name
-date: YYYY-MM-DD
+date: 2026-04-01
 ---
 
 # Concept Name

@@ -1,7 +1,7 @@
 ---
 title: "Note Titles Are Claims, Not Topics"
 tags: [note-writing, titles, evergreen, methodology]
-date: 2026-07-23
+date: 2026-06-28
 ---
 
 A bad note title is a noun. "Chain Rule." "Photosynthesis." "Memory Systems." These tell you the topic, not the idea.

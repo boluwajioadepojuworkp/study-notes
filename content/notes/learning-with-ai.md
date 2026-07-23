@@ -1,4 +1,5 @@
 ---
+date: 2026-05-20
 title: "How to Learn With AI Without Getting Dumber"
 tags: [learning, methodology, ai]
 ---

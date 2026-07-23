@@ -1,7 +1,7 @@
 ---
 title: "How to Process What You Read"
 tags: [reading, note-writing, workflow, methodology]
-date: 2026-07-23
+date: 2026-06-22
 ---
 
 Reading without processing is like eating without digesting. You consumed the material, but you absorbed almost nothing. The solution is a systematic pipeline: collect while reading, then process afterwards into permanent notes.

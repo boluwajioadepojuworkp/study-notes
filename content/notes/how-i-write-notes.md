@@ -1,7 +1,7 @@
 ---
 title: "How I Write Notes That Actually Think"
 tags: [note-writing, methodology, evergreen, knowledge]
-date: 2026-07-23
+date: 2026-07-10
 ---
 
 Most people's notes are dead. They write them once, close the notebook, and never look again. A year later they have a graveyard of half-remembered thoughts: fuel that was burned and discarded. That is not how I take notes.

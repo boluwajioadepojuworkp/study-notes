@@ -1,7 +1,7 @@
 ---
 title: "How I Turn Reading Into Permanent Notes"
 tags: [reading, note-writing, workflow, methodology]
-date: 2026-07-23
+date: 2026-06-25
 ---
 
 Reading without writing is entertainment. You feel smarter, but nothing sticks. The understanding fades within days.

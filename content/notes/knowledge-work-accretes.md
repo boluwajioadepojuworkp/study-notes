@@ -1,4 +1,5 @@
 ---
+date: 2026-03-15
 title: "Knowledge Work Should Compound"
 tags: [note-writing, methodology, evergreen]
 ---

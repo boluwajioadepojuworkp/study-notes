@@ -1,7 +1,7 @@
 ---
 title: "Let Structure Emerge: Against Folders and Categories"
 tags: [note-writing, organization, thinking, methodology]
-date: 2026-07-23
+date: 2026-06-08
 ---
 
 Do not organize your notes into folders. Do not create categories. Let structure emerge from the bottom up, through links, over time.

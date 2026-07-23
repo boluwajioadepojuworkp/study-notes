@@ -1,7 +1,7 @@
 ---
 title: "The Daily Log: A Place for Everything"
 tags: [writing, workflow, daily, methodology]
-date: 2026-07-23
+date: 2026-06-10
 ---
 
 Every day, I start a note titled with the date. It captures everything: reflections, scratch work, half-formed thoughts, things I noticed, things I am confused about, things I want to remember.

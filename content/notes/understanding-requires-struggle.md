@@ -1,7 +1,7 @@
 ---
 title: "Why Understanding Requires Struggle"
 tags: [learning, understanding, thinking, methodology]
-date: 2026-07-23
+date: 2026-05-28
 ---
 
 You cannot understand something by reading it. You cannot understand something by hearing it explained. Understanding is not a transfer: it is a construction. You have to build it yourself, from the inside, through effort.

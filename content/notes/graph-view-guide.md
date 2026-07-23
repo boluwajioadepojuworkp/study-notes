@@ -1,4 +1,5 @@
 ---
+date: 2026-06-02
 title: How to Use the Knowledge Graph
 ---
 

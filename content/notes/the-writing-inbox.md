@@ -1,7 +1,7 @@
 ---
 title: "The Writing Inbox: Capture Now, Think Later"
 tags: [workflow, inbox, note-writing, methodology]
-date: 2026-07-23
+date: 2026-06-15
 ---
 
 Ideas do not arrive on schedule. They appear in the shower, during a lecture, while walking, in the middle of a conversation. If you do not capture them immediately, they vanish.

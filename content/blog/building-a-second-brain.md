@@ -1,6 +1,6 @@
 ---
 title: Building a Second Brain That Actually Thinks
-date: 2026-07-23
+date: 2026-07-18
 tags: [note-writing, methodology, knowledge]
 ---
 

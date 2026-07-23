@@ -1,4 +1,5 @@
 ---
+date: 2026-01-05
 title: "Dunlosky 2013: Scientifically Ranked Study Techniques"
 source: Dunlosky, Rawson, Marsh, Nathan, Willingham (2013). Scientific American Mind, 24(4), 47-53.
 ---

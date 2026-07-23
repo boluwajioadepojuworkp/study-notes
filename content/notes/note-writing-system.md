@@ -1,4 +1,5 @@
 ---
+date: 2026-05-30
 title: "The Complete Note Writing System"
 tags: [note-writing, methodology, evergreen]
 ---

@@ -1,4 +1,5 @@
 ---
+date: 2026-01-12
 title: "The Goal Is Better Thinking, Not Better Notes"
 tags: [note-writing, methodology, thinking]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "The Morning Practice: How I Write Every Day"
 tags: [writing, workflow, daily, methodology]
-date: 2026-07-23
+date: 2026-06-12
 ---
 
 The most important part of my day happens before noon. Every morning, for two to three hours, I write and revise notes. This is not "taking notes" in the school sense: copying down what someone else said. This is thinking in writing. Developing my own ideas. Making connections. Sharpening claims.

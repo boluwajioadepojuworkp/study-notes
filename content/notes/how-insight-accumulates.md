@@ -1,4 +1,5 @@
 ---
+date: 2026-04-10
 title: "How Insight Accumulates: From Fleeting Thought to Durable Knowledge"
 tags: [note-writing, thinking, methodology, creativity]
 ---

@@ -1,4 +1,5 @@
 ---
+date: 2026-03-08
 title: "How to Turn Notes Into Writing: An Executable Strategy"
 tags: [note-writing, writing, methodology]
 ---

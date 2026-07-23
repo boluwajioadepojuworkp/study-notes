@@ -1,6 +1,6 @@
 ---
 title: Why Understanding Cannot Be Downloaded
-date: 2026-07-22
+date: 2026-07-15
 tags: [learning, understanding, methodology]
 ---
 

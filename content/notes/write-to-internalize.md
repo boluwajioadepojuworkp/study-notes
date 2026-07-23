@@ -1,4 +1,5 @@
 ---
+date: 2026-04-25
 title: "Write About What You Read to Internalize Deeply"
 tags: [reading, note-writing, methodology]
 ---

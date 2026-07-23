@@ -1,4 +1,5 @@
 ---
+date: 2026-05-05
 title: "How Learning Actually Works: Brain-Based Methods That Last"
 tags: [learning, methodology, memory, evidence-based]
 ---

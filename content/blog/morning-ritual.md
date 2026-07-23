@@ -1,6 +1,6 @@
 ---
 title: The Morning Ritual That Changed Everything
-date: 2026-07-20
+date: 2026-07-12
 tags: [writing, workflow, daily, methodology]
 ---
 

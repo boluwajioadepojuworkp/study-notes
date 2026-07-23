@@ -1,4 +1,5 @@
 ---
+date: 2026-02-22
 title: "Do Your Own Thinking: Why You Must Write, Not Just Read"
 tags: [note-writing, thinking, methodology]
 ---

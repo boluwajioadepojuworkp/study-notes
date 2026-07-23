@@ -1,4 +1,5 @@
 ---
+date: 2026-04-18
 title: "From Reading to Notes: The Full Pipeline"
 tags: [reading, note-writing, methodology]
 ---
