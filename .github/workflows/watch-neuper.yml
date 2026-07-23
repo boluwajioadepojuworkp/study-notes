@@ -35,7 +35,7 @@ jobs:
           echo "Latest koreader commit: $(cat /tmp/koreader-sha.txt)"
 
       - name: Create issue if new content found
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             const fs = require('fs');
