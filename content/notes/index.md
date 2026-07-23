@@ -26,6 +26,10 @@ Reference notes about methods, tools, and systems I use.
 ## Note Taking Systems
 - [[how-i-write-notes]]
 - [[evergreen-notes]]
+- [[how-insight-accumulates]]
+- [[do-your-own-thinking]]
+- [[collectors-fallacy]]
+- [[reading-to-notes-pipeline]]
 - [[knowledge-work-accretes]]
 - [[better-thinking-not-notes]]
 - [[executable-writing-strategy]]
