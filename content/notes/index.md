@@ -7,6 +7,7 @@ title: Notes Index
 Reference notes about methods, tools, and systems I use.
 
 ## Evidence Based Methods
+- [[how-learning-works]]
 - [[complete-learning-system]]
 - [[goat-me-method]]
 - [[dunlosky-2013-study-techniques]]
