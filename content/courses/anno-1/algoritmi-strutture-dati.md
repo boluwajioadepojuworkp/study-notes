@@ -8,7 +8,7 @@ cfu: 6
 
 # Algoritmi e Strutture Dati
 
-**Anno 1 — Secondo Semestre** | INF/01 | 6 CFU
+**Anno 1: Secondo Semestre** | INF/01 | 6 CFU
 
 ## Cosa ho imparato
 

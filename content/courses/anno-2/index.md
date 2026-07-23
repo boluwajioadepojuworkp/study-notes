@@ -1,8 +1,8 @@
 ---
-title: Anno 2 — Corsi
+title: "Anno 2: Corsi"
 ---
 
-# Anno 2 — Programmazione e Gestione dei Sistemi Informatici
+# Anno 2: Programmazione e Gestione dei Sistemi Informatici
 
 **A.A. 2025-2026** | Università degli Studi di Perugia | Classe L-P03
 

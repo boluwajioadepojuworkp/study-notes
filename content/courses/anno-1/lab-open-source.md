@@ -7,7 +7,7 @@ cfu: 3
 
 # Lab. Open Source
 
-**Anno 1 — Primo Semestre** | 3 CFU
+**Anno 1: Primo Semestre** | 3 CFU
 
 *Laboratorio su strumenti open source, Linux, Git, collaborazione.*
 

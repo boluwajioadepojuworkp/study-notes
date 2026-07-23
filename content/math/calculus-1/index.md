@@ -1,5 +1,5 @@
 ---
-title: Calculus I — Complete Reference
+title: "Calculus I: Complete Reference"
 source: https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx
 ---
 
@@ -10,7 +10,7 @@ Single-variable calculus: limits, derivatives, integrals, and their applications
 ## Topics
 
 ### 1. Review
-- [[math/calculus-1/algebra-trig-review|Algebra/Trig Review]] — Trig functions, Exponential/Logarithm functions
+- [[math/calculus-1/algebra-trig-review|Algebra/Trig Review]]: Trig functions, Exponential/Logarithm functions
 
 ### 2. [[math/calculus-1/limits|Limits]]
 - Concepts, Definition, Computing Limits

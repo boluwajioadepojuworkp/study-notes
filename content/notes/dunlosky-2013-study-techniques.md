@@ -1,9 +1,9 @@
 ---
-title: Dunlosky 2013 — Scientifically Ranked Study Techniques
+title: "Dunlosky 2013: Scientifically Ranked Study Techniques"
 source: Dunlosky, Rawson, Marsh, Nathan, Willingham (2013). Scientific American Mind, 24(4), 47-53.
 ---
 
-# Scientifically Ranked Study Techniques — Dunlosky et al. (2013)
+# Scientifically Ranked Study Techniques: Dunlosky et al. (2013)
 
 The gold standard meta-analysis of what actually works for studying. Published in *Scientific American Mind*.
 
@@ -22,7 +22,7 @@ The gold standard meta-analysis of what actually works for studying. Published i
 |-----------|-------------|-----------|
 | **Elaborative Interrogation** | Asking "why" questions to connect new and old material | "Why chains" in every note |
 | **Self-Explanation** | Explaining problems in your own words while learning | Step 2: Read aloud + simplify ("like to a 10-year-old") |
-| **Interleaved Practice** | Mixing different problem types in one session | [[come-studiare/index|Implicit Memory — Interleaving]] |
+| **Interleaved Practice** | Mixing different problem types in one session | [[come-studiare/index|Implicit Memory: Interleaving]] |
 
 ## Least Effective (Low Utility)
 
@@ -44,7 +44,7 @@ Our COME STUDIARE method is built on exactly these two:
 - **Practice testing** = Step 3 (Close + Recall) + Step 4 (Write from memory)
 - **Distributed practice** = The entire Recall Schedule (1h → 3h → sleep → next day → 3 days → 1 week → 1 month)
 
-Everything else — elaboration, interleaving, mind maps, physical anchors — are amplifiers. They make retrieval practice MORE effective. But retrieval practice + spacing IS the engine.
+Everything else: elaboration, interleaving, mind maps, physical anchors: are amplifiers. They make retrieval practice MORE effective. But retrieval practice + spacing IS the engine.
 
 ---
 

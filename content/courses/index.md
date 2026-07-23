@@ -8,15 +8,15 @@ title: All Courses
 
 ## Current Year: Anno 2
 
-- [[anno-2/index|Anno 2 (2025-2026) — CURRENT]]
+- [[anno-2/index|Anno 2 (2025-2026): CURRENT]]
 
 ## Completed
 
-- [[anno-1/index|Anno 1 (2024-2025) — COMPLETED]]
+- [[anno-1/index|Anno 1 (2024-2025): COMPLETED]]
 
 ## Future
 
-- Anno 3 (2026-2027) — Tirocinio + Prova Finale
+- Anno 3 (2026-2027): Tirocinio + Prova Finale
 
 ---
 

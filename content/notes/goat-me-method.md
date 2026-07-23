@@ -1,19 +1,19 @@
 ---
-title: The GOAT ME Method — How to Study Based on How Memory Works
+title: "The GOAT ME Method: How to Study Based on How Memory Works"
 source: https://www.reddit.com/r/AskReddit/comments/2b0yf8/comment/cj0qre2/
 author: u/Salticido (Memory Psychology seminar student)
 date: 2014-07-18
 ---
 
-# The GOAT ME Method — Study Based on How Memory Works
+# The GOAT ME Method: Study Based on How Memory Works
 
-**By u/Salticido** — The most upvoted study advice in Reddit history (8,041 points). Based on a university Memory Psychology seminar. This is the foundation that our entire COME STUDIARE system is built on.
+**By u/Salticido**: The most upvoted study advice in Reddit history (8,041 points). Based on a university Memory Psychology seminar. This is the foundation that our entire COME STUDIARE system is built on.
 
 > Memory works in 3 stages: **attention**, **encoding** (storing/associating), and **retrieval** (remembering). To optimize the final stage, optimize the first two.
 
 ---
 
-## GOAT ME — The 6 Principles
+## GOAT ME: The 6 Principles
 
 | Letter | Stands For | What It Means |
 |--------|-----------|---------------|
@@ -38,12 +38,12 @@ Some prefer this ordering: **M**atch conditions → **O**rganize → **R**ecall 
 
 | GOAT ME | COME STUDIARE |
 |---------|--------------|
-| G — Generate and Test | Step 3: Close + Recall. Step 4: Write from memory. |
-| O — Organize | STEP ZERO: 30-second preview. Mind maps. Compare/contrast tables. |
-| A — Avoid Illusions | WHY NORMAL STUDYING DOESN'T WORK. Gradient 1-5 Protocol. |
-| T — Take Breaks | 25/5 Pomodoro. Recall schedule (1h, 3h, sleep). Sleep = save button. |
-| M — Match Conditions | Study in exam-like conditions. Also: interleaving = variety of conditions. |
-| E — Elaborate | "Why" chains. Teach a ghost. Story-ify. Personal examples in every note. |
+| G: Generate and Test | Step 3: Close + Recall. Step 4: Write from memory. |
+| O: Organize | STEP ZERO: 30-second preview. Mind maps. Compare/contrast tables. |
+| A: Avoid Illusions | WHY NORMAL STUDYING DOESN'T WORK. Gradient 1-5 Protocol. |
+| T: Take Breaks | 25/5 Pomodoro. Recall schedule (1h, 3h, sleep). Sleep = save button. |
+| M: Match Conditions | Study in exam-like conditions. Also: interleaving = variety of conditions. |
+| E: Elaborate | "Why" chains. Teach a ghost. Story-ify. Personal examples in every note. |
 
 ---
 

@@ -8,7 +8,7 @@ cfu: 3
 
 # Lab. Programmazione Web I
 
-**Anno 2 — Primo Semestre** | 3 CFU
+**Anno 2: Primo Semestre** | 3 CFU
 
 ## Procedure
 

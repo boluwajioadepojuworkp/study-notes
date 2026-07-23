@@ -61,7 +61,7 @@ mindmap
 See: [[come-studiare/index|COME STUDIARE Method]] for the full evidence-based study system.
 
 Key principles for mathematics specifically:
-- Never read math passively — solve problems from memory
+- Never read math passively: solve problems from memory
 - Write formulas 5 times, then throw away the sheet and rewrite
 - Execute derivations by hand without looking
 - Interleave problem types in each study session

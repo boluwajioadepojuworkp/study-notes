@@ -7,7 +7,7 @@ cfu: 3
 
 # Lab. Basi di Dati
 
-**Anno 1 — Secondo Semestre** | 3 CFU
+**Anno 1: Secondo Semestre** | 3 CFU
 
 Collegato a: [[anno-1/basi-di-dati|Basi di Dati]]
 

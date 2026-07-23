@@ -8,7 +8,7 @@ cfu: 6
 
 # Programmazione I
 
-**Anno 1 — Primo Semestre** | INF/01 | 6 CFU
+**Anno 1: Primo Semestre** | INF/01 | 6 CFU
 
 ## Cosa ho imparato
 

@@ -8,7 +8,7 @@ cfu: 3
 
 # Lab. Cloud Computing
 
-**Anno 2 — Secondo Semestre** | 3 CFU | [[anno-2/cloud-computing|Cloud Computing]]
+**Anno 2: Secondo Semestre** | 3 CFU | [[anno-2/cloud-computing|Cloud Computing]]
 
 ## Procedure
 

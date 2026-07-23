@@ -8,7 +8,7 @@ cfu: 6
 
 # Matematica per l'Informatica
 
-**Anno 1 — Primo Semestre** | MAT/05 | 6 CFU
+**Anno 1: Primo Semestre** | MAT/05 | 6 CFU
 
 ## Cosa ho imparato
 

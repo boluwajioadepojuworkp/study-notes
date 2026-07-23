@@ -4,7 +4,7 @@ title: How to Use the Knowledge Graph
 
 # How to Use the Knowledge Graph
 
-This site has a built-in interactive knowledge graph — every note is a node, every wikilink is a connection.
+This site has a built-in interactive knowledge graph: every note is a node, every wikilink is a connection.
 
 ## How to Access It
 

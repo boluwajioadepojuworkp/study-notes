@@ -1,9 +1,9 @@
 ---
-title: AI Agents — Capabilities and Usage
+title: "AI Agents: Capabilities and Usage"
 draft: true
 ---
 
-# AI Agents — What They Do & How to Use Them
+# AI Agents: What They Do & How to Use Them
 
 > These agents work from **any VS Code window, any folder**. Just type the invocation phrase and Copilot will switch to that role.
 
@@ -11,14 +11,14 @@ draft: true
 
 ## How to Invoke An Agent
 
-Type any of these phrases in Copilot Chat — from ANY window:
+Type any of these phrases in Copilot Chat: from ANY window:
 
 | Say This | Agent Activates | What Happens |
 |----------|----------------|--------------|
 | "Act as my study coach" or "Help me study X" | **Study Coach** | Guides through 5-Step Method, recall schedule, never suggests passive reading |
 | "Create a note for..." or "Write a study note about..." | **Note Architect** | Creates atomic Markdown notes with YAML frontmatter, wikilinks, and proper structure |
 | "Explain this math concept..." or "Help me with calculus" | **Math Tutor** | Explains with concrete examples. Formulas in words first. Paul's Notes structure. |
-| "Review this code" or "Why isn't this working?" | **Code Reviewer** | Debugs, explains, guides — never gives complete answers. Uses "execute by hand" method. |
+| "Review this code" or "Why isn't this working?" | **Code Reviewer** | Debugs, explains, guides: never gives complete answers. Uses "execute by hand" method. |
 | "Deploy the site" or "Fix the graph view" | **Graph Maintainer** | Manages Quartz builds, GitHub Pages deployment, link checking |
 | "Prepare me for an oral exam" or "I have a test on..." | **Exam Strategist** | Oral/written/practical exam prep. 3-sentence rule, mirror technique, trigger-action pairs. |
 | "Check for learning science updates" or "What's new in learning science?" | **Resource Watcher** | Checks all monitored sources for updates |
@@ -39,7 +39,7 @@ Type any of these phrases in Copilot Chat — from ANY window:
 - Never suggests rereading, highlighting, or passive methods
 
 **Real examples of what you can ask:**
-- "I don't understand eigenvalues — help me study them"
+- "I don't understand eigenvalues: help me study them"
 - "I have brain fog today, what should I do?"
 - "Quiz me on cybersecurity concepts"
 - "How do I remember this formula?"
@@ -57,7 +57,7 @@ Type any of these phrases in Copilot Chat — from ANY window:
 
 **Real examples:**
 - "Create a note for today's ML lecture on gradient descent"
-- "I just learned about SQL joins — make a note"
+- "I just learned about SQL joins: make a note"
 - "Link my gradient descent note to the calculus chain rule note"
 
 ### Math Tutor
@@ -81,10 +81,10 @@ Type any of these phrases in Copilot Chat — from ANY window:
 
 **Capabilities:**
 - Reads your code and identifies issues without giving complete solutions
-- Guides "execute by hand" — trace variable values line by line
-- Uses "Break it and fix it" — change one line, predict, test
+- Guides "execute by hand": trace variable values line by line
+- Uses "Break it and fix it": change one line, predict, test
 - Explains WHY something works, not just WHAT it does
-- Never copy-pastes solutions — always makes you type
+- Never copy-pastes solutions: always makes you type
 
 **Real examples:**
 - "Why is my Python function returning None?"
@@ -102,9 +102,9 @@ Type any of these phrases in Copilot Chat — from ANY window:
 - Updates site configuration
 
 **Real examples:**
-- "The graph view isn't showing — fix it"
+- "The graph view isn't showing: fix it"
 - "Deploy my latest notes"
-- "I have 15 orphan notes — help me link them"
+- "I have 15 orphan notes: help me link them"
 
 ### Exam Strategist
 **Best for:** Preparing for oral exams, written tests, practical labs.
@@ -117,7 +117,7 @@ Type any of these phrases in Copilot Chat — from ANY window:
 - Teaches pause strategy and "what to say when you don't know"
 
 **Real examples:**
-- "I have an oral exam on cybersecurity next week — prepare me"
+- "I have an oral exam on cybersecurity next week: prepare me"
 - "Simulate a written exam on machine learning"
 - "I have a lab practical tomorrow on IoT systems"
 
@@ -148,7 +148,7 @@ code ~/ME      # Opens workspace root
 Copilot reads `AGENTS.md` and all agents are available.
 
 ### Option 2: From any folder
-Just type the invocation phrase. Copilot has context from this guide. The agents work because they're documented in your user memory — Copilot knows about them.
+Just type the invocation phrase. Copilot has context from this guide. The agents work because they're documented in your user memory: Copilot knows about them.
 
 ### Option 3: Reference the guide
 "Check /home/boadepoju/ME/AGENTS.md for agent instructions"

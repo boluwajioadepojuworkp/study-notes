@@ -8,7 +8,7 @@ cfu: 6
 
 # Basi di Dati
 
-**Anno 1 — Secondo Semestre** | ING-INF/05 | 6 CFU
+**Anno 1: Secondo Semestre** | ING-INF/05 | 6 CFU
 
 ## Cosa ho imparato
 

@@ -9,7 +9,7 @@ cfu: 6
 
 # Programmazione II
 
-**Anno 2 — Primo Semestre** | INF/01 | 6 CFU
+**Anno 2: Primo Semestre** | INF/01 | 6 CFU
 
 ## Cosa sto imparando
 

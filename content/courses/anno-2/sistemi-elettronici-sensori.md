@@ -9,7 +9,7 @@ cfu: 6
 
 # Sistemi Elettronici e Sensori per l'Informatica
 
-**Anno 2 — Primo Semestre** | FIS/04 | 6 CFU
+**Anno 2: Primo Semestre** | FIS/04 | 6 CFU
 
 ## Cosa sto imparando
 

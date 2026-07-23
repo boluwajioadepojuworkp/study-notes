@@ -7,7 +7,7 @@ cfu: 3
 
 # Lab. Programmazione I
 
-**Anno 1 — Primo Semestre** | 3 CFU
+**Anno 1: Primo Semestre** | 3 CFU
 
 Collegato a: [[anno-1/programmazione-1|Programmazione I]]
 

@@ -9,7 +9,7 @@ cfu: 6
 
 # Ingegneria del Software
 
-**Anno 2 — Secondo Semestre** | INF/01 | 6 CFU
+**Anno 2: Secondo Semestre** | INF/01 | 6 CFU
 
 ## Cosa sto imparando
 

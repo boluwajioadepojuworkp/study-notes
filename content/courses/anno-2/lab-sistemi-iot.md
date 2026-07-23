@@ -8,7 +8,7 @@ cfu: 3
 
 # Lab. Sistemi IoT
 
-**Anno 2 — Secondo Semestre** | 3 CFU
+**Anno 2: Secondo Semestre** | 3 CFU
 
 Collegato a: [[anno-2/sistemi-elettronici-sensori|Sistemi Elettronici e Sensori]]
 

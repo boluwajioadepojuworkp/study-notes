@@ -7,7 +7,7 @@ cfu: 3
 
 # Lab. Realtà Virtuale e Aumentata I
 
-**Anno 1 — Secondo Semestre** | 3 CFU
+**Anno 1: Secondo Semestre** | 3 CFU
 
 Collegato a: [[anno-2/lab-vr-ar-2|Lab. Realtà Virtuale e Aumentata II]] (Anno 2)
 

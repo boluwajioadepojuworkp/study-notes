@@ -1,9 +1,9 @@
 ---
-title: Agent Hub — Study Command Center
+title: "Agent Hub: Study Command Center"
 draft: true
 ---
 
-# Agent Hub — Study Command Center
+# Agent Hub: Study Command Center
 
 Your central dashboard for accessing every resource, agent, and tool in the COME STUDIARE system. Click any card below to navigate.
 
@@ -16,7 +16,7 @@ Your central dashboard for accessing every resource, agent, and tool in the COME
 |  Start Today's Study Session | [[come-studiare/5-step-method|5-Step Method]] |
 |  Check Recall Schedule | [[come-studiare/recall-schedule|What to review right now]] |
 |  Create New Course Note | [[templates/note-template|Note Template]] |
-|  Browse Knowledge Graph | [Graph View](/) — click the graph icon in sidebar |
+|  Browse Knowledge Graph | [Graph View](/): click the graph icon in sidebar |
 |  Push to Deploy | `git add -A && git commit -m "notes" && git push` |
 
 ---
@@ -69,11 +69,11 @@ Guides through evidence-based learning. Never suggests passive reading.
 - [[come-studiare/5-step-method|The 5-Step Method]]
 - [[come-studiare/recall-schedule|Recall Schedule (non-negotiable)]]
 - [[come-studiare/3-pass-system|3-Pass System for instant forget]]
-- [[notes/goat-me-method|GOAT ME — How Memory Works]]
+- [[notes/goat-me-method|GOAT ME: How Memory Works]]
 - [[notes/complete-learning-system|Complete Learning System]]
 
 ### Note Architect
-Creates atomic, linked notes. One concept per file. Never copies — always writes from memory.
+Creates atomic, linked notes. One concept per file. Never copies: always writes from memory.
 
 **Invoke:** `@note-architect create a note for today's lecture on [topic]`
 
@@ -91,12 +91,12 @@ Explains with concrete examples. Formulas in words first, symbols second.
 **Resources:**
 - [[math/index|Complete Math Reference (Paul's Notes)]]
 - [[math/algebra/index|Algebra]]
-- [[math/calculus-1/index|Calculus I]] — [[math/calculus-2/index|II]] — [[math/calculus-3/index|III]]
+- [[math/calculus-1/index|Calculus I]]: [[math/calculus-2/index|II]]: [[math/calculus-3/index|III]]
 - [[math/differential-equations/index|Differential Equations]]
 - [[math/cheatsheets/index|Cheat Sheets & Quick Reference]]
 
 ### Code Reviewer
-Debugs and explains. Never gives complete answers — guides through retrieval.
+Debugs and explains. Never gives complete answers: guides through retrieval.
 
 **Invoke:** `@code-reviewer why is this code not working?`
 
@@ -144,7 +144,7 @@ Monitors external sources for updates. Runs automatically via GitHub Actions.
 
 ```mermaid
 flowchart LR
-    subgraph YEAR1["Anno 1 — Completed"]
+    subgraph YEAR1["Anno 1: Completed"]
         A1["Architettura Elaboratori"]
         A2["Matematica per l'Informatica"]
         A3["Programmazione I"]
@@ -153,7 +153,7 @@ flowchart LR
         A6["Basi di Dati"]
     end
 
-    subgraph YEAR2["Anno 2 — Current"]
+    subgraph YEAR2["Anno 2: Current"]
         B1["Programmazione II"]
         B2["Machine Learning"]
         B3["Cybersecurity"]
@@ -170,7 +170,7 @@ flowchart LR
 ## All Reference Notes
 
 ### Evidence-Based Methods
-- [[notes/complete-learning-system|Complete Learning System — ALL Frameworks]]
+- [[notes/complete-learning-system|Complete Learning System: ALL Frameworks]]
 - [[notes/goat-me-method|GOAT ME Method]]
 - [[notes/dunlosky-2013-study-techniques|Dunlosky 2013 Scientific Rankings]]
 - [[notes/supermemo-20-rules|SuperMemo 20 Rules]]

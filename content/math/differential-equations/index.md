@@ -1,5 +1,5 @@
 ---
-title: Differential Equations — Complete Reference
+title: "Differential Equations: Complete Reference"
 source: https://tutorial.math.lamar.edu/Classes/DE/DE.aspx
 ---
 

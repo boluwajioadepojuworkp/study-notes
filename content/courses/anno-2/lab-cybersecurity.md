@@ -8,7 +8,7 @@ cfu: 3
 
 # Lab. Cybersecurity
 
-**Anno 2 — Primo Semestre** | 3 CFU | [[anno-2/cybersecurity|Cybersecurity]]
+**Anno 2: Primo Semestre** | 3 CFU | [[anno-2/cybersecurity|Cybersecurity]]
 
 ## Procedure
 

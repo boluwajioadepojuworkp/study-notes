@@ -1,5 +1,5 @@
 ---
-title: Agent Reference — Internal
+title: "Agent Reference: Internal"
 draft: true
 ---
 
@@ -28,7 +28,7 @@ draft: true
 - Always push for retrieval practice: "Close the book. Say it aloud. What do you remember?"
 - Use the 5-gradient ladder when the user can't understand something
 - Remind about the recall schedule: immediate → +1h → +3h → bedtime → next day
-- If the user is having a bad brain day, recommend Yellow or Red protocol — never push Green
+- If the user is having a bad brain day, recommend Yellow or Red protocol: never push Green
 
 ---
 
@@ -73,10 +73,10 @@ draft: true
 - `https://tutorial.math.lamar.edu/`
 
 **Rules:**
-- Always explain with a concrete, numerical example first — never lead with abstract notation
+- Always explain with a concrete, numerical example first: never lead with abstract notation
 - Say formulas in words before showing symbols: "y equals sign of w-one x-one plus w-two x-two plus b"
 - For every formula: say it → explain it → example → write 5x → throw away sheet → rewrite
-- Never just show the solution — guide through retrieval: "What do you remember about this? Try solving from memory first."
+- Never just show the solution: guide through retrieval: "What do you remember about this? Try solving from memory first."
 - Use the 5-Step Method for math: Break it → Read aloud → Close and recall → Write from memory → Repeat after 10 min
 
 ---
@@ -94,7 +94,7 @@ draft: true
 - Course structure: `/home/boadepoju/ME/notes-site/content/courses/anno-2/`
 
 **Rules:**
-- Never give the complete answer — guide through retrieval: "What do you think this line does? Try executing it by hand first."
+- Never give the complete answer: guide through retrieval: "What do you think this line does? Try executing it by hand first."
 - For debugging: ask the user to predict what should happen, then compare with what actually happens
 - Use the "Break it and fix it" method: change one line, predict, test
 - Always suggest typing code from scratch, never copy-pasting
@@ -116,9 +116,9 @@ draft: true
 - Quartz v5 documentation
 
 **Rules:**
-- Content lives in `content/` — never modify generated files in `public/`
+- Content lives in `content/`: never modify generated files in `public/`
 - Use `npx quartz build -d content` to build
-- Push to `main` branch — GitHub Actions deploys automatically
+- Push to `main` branch: GitHub Actions deploys automatically
 - Check `crawl-links` plugin is enabled for graph view
 - Templates go in `content/templates/` (ignored from publishing)
 - Every new note must be linked from at least one index or structure note
@@ -175,6 +175,6 @@ To invoke an agent, use: `@agent-name your request here`
 | Note Architect | `@note-architect create a note for today's ML lecture on gradient descent` |
 | Math Tutor | `@math-tutor explain the chain rule with an example` |
 | Code Reviewer | `@code-reviewer why is my Python function returning None?` |
-| Knowledge Graph Maintainer | `@graph-maintainer the graph view isn't showing — fix it` |
-| Exam Strategist | `@exam-strategist I have an oral exam on cybersecurity next week — prepare me` |
+| Knowledge Graph Maintainer | `@graph-maintainer the graph view isn't showing: fix it` |
+| Exam Strategist | `@exam-strategist I have an oral exam on cybersecurity next week: prepare me` |
 | Resource Watcher | `@resource-watcher check for any updates` |

@@ -18,7 +18,7 @@ This is the difference between a filing system and a thinking system. A filing s
 
 If I cannot write a complete declarative sentence as the title, the idea is not ready. It means one of two things:
 
-**My thinking is muddy.** I do not actually understand the idea well enough to make a claim about it. The solution is to break it down further — write about the pieces I do understand first.
+**My thinking is muddy.** I do not actually understand the idea well enough to make a claim about it. The solution is to break it down further: write about the pieces I do understand first.
 
 **The note is about too many things.** If a note covers three different concepts, no single sentence can title it well. The solution is to split it into three atomic notes, each with its own claim.
 
@@ -26,9 +26,9 @@ Both problems have the same fix: decompose. The title forces decomposition.
 
 ## How Titles Emerge
 
-I almost never know the title when I start writing. I write the body first — explaining the idea to myself, working through examples, connecting it to other notes. The title usually appears somewhere in the middle of writing, when the core claim crystallizes.
+I almost never know the title when I start writing. I write the body first: explaining the idea to myself, working through examples, connecting it to other notes. The title usually appears somewhere in the middle of writing, when the core claim crystallizes.
 
-This is a useful signal. When the title emerges easily, the note is working. When I struggle to title something after writing for twenty minutes, the note is broken — too broad, too vague, or not yet understood.
+This is a useful signal. When the title emerges easily, the note is working. When I struggle to title something after writing for twenty minutes, the note is broken: too broad, too vague, or not yet understood.
 
 ## Examples of Good vs Bad Titles
 
@@ -48,7 +48,7 @@ The good titles tell you the argument. The bad titles tell you the filing cabine
 
 Not every note starts as a claim. Some start as questions: "Why does forgetting follow an exponential curve?" or "How much does sleep quality affect exam performance?"
 
-Question-titles create productive pressure. They demand that the note eventually answer the question — or at least clarify what we still do not know. The goal is to eventually drop the question mark and turn it into a claim. Some questions take years to resolve. That is fine.
+Question-titles create productive pressure. They demand that the note eventually answer the question: or at least clarify what we still do not know. The goal is to eventually drop the question mark and turn it into a claim. Some questions take years to resolve. That is fine.
 
 ## The API Analogy
 

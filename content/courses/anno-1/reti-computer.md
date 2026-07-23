@@ -8,7 +8,7 @@ cfu: 6
 
 # Reti di Computer ed Internet
 
-**Anno 1 — Secondo Semestre** | ING-INF/05 | 6 CFU
+**Anno 1: Secondo Semestre** | ING-INF/05 | 6 CFU
 
 ## Cosa ho imparato
 

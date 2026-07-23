@@ -10,7 +10,7 @@ lingua: Inglese
 
 # Cloud Computing
 
-**Anno 2 — Secondo Semestre** | INF/01 | 6 CFU | INGLESE
+**Anno 2: Secondo Semestre** | INF/01 | 6 CFU | INGLESE
 
 ## Cosa sto imparando
 

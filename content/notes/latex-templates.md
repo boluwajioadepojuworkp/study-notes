@@ -4,7 +4,7 @@ title: Academic Templates
 
 # LaTeX Templates for Academic Writing
 
-Ready-to-use LaTeX templates for essays, projects, homework, and articles — built for real university coursework at Università degli Studi di Perugia.
+Ready-to-use LaTeX templates for essays, projects, homework, and articles: built for real university coursework at Università degli Studi di Perugia.
 
 **Templates available:**
 
@@ -17,7 +17,7 @@ Ready-to-use LaTeX templates for essays, projects, homework, and articles — bu
 
 **How to use:**
 1. Copy the template folder to your working directory
-2. Edit `main.tex` — fill in your content
+2. Edit `main.tex`: fill in your content
 3. Compile: `pdflatex main.tex && bibtex main && pdflatex main.tex`
 
 **Why it connects:**

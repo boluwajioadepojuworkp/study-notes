@@ -1,5 +1,5 @@
 ---
-title: Calculus II — Complete Reference
+title: "Calculus II: Complete Reference"
 source: https://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx
 ---
 

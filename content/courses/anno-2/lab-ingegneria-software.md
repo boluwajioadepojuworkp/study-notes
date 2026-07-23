@@ -8,7 +8,7 @@ cfu: 3
 
 # Lab. Ingegneria del Software
 
-**Anno 2 — Secondo Semestre** | 3 CFU | [[anno-2/ingegneria-del-software|Ingegneria del Software]]
+**Anno 2: Secondo Semestre** | 3 CFU | [[anno-2/ingegneria-del-software|Ingegneria del Software]]
 
 ## Procedure
 

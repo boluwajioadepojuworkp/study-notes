@@ -1,18 +1,18 @@
 ---
-title: COME STUDIARE — How I Study
+title: "COME STUDIARE: How I Study"
 ---
 
-# COME STUDIARE — My Study System
+# COME STUDIARE: My Study System
 
 This is my adaptation of the evidence-based study method for my brain.
 
 ## Core Rules
 
-1. **NEVER study in silence** — Read aloud, recall aloud. Voice = dual coding.
-2. **30-second preview** before every session — Build the mental shelf.
-3. **5-Step Method** for every chunk — see [[come-studiare/5-step-method|the full 5-step method]].
-4. **3-Pass System** for instant-forget — see [[come-studiare/3-pass-system|the 3-pass system]].
-5. **Recall Schedule** is non-negotiable — see [[come-studiare/recall-schedule|the recall schedule]].
+1. **NEVER study in silence**: Read aloud, recall aloud. Voice = dual coding.
+2. **30-second preview** before every session: Build the mental shelf.
+3. **5-Step Method** for every chunk: see [[come-studiare/5-step-method|the full 5-step method]].
+4. **3-Pass System** for instant-forget: see [[come-studiare/3-pass-system|the 3-pass system]].
+5. **Recall Schedule** is non-negotiable: see [[come-studiare/recall-schedule|the recall schedule]].
 
 ## Memory Systems I Train
 

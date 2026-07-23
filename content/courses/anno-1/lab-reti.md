@@ -7,7 +7,7 @@ cfu: 3
 
 # Lab. Reti
 
-**Anno 1 — Secondo Semestre** | 3 CFU
+**Anno 1: Secondo Semestre** | 3 CFU
 
 Collegato a: [[anno-1/reti-computer|Reti di Computer ed Internet]]
 

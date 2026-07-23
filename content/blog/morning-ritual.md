@@ -6,7 +6,7 @@ tags: [writing, workflow, daily, methodology]
 
 The most productive change I made this year was not a tool or a technique. It was a time of day.
 
-Every morning, before anything else, I spend two hours writing and revising notes. Not answering emails. Not reading Twitter. Not planning my day. Just thinking in writing — developing ideas, making connections, sharpening claims.
+Every morning, before anything else, I spend two hours writing and revising notes. Not answering emails. Not reading Twitter. Not planning my day. Just thinking in writing: developing ideas, making connections, sharpening claims.
 
 This is the hardest cognitive work I do, which is exactly why it comes first. By evening, my mind is depleted. Morning clarity is worth more than any productivity hack.
 

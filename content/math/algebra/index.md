@@ -1,5 +1,5 @@
 ---
-title: Algebra — Complete Reference
+title: "Algebra: Complete Reference"
 source: https://tutorial.math.lamar.edu/Classes/Alg/Alg.aspx
 ---
 

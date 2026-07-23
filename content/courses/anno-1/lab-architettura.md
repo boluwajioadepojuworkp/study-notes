@@ -7,7 +7,7 @@ cfu: 3
 
 # Lab. Architettura degli Elaboratori
 
-**Anno 1 — Primo Semestre** | 3 CFU
+**Anno 1: Primo Semestre** | 3 CFU
 
 Collegato a: [[anno-1/architettura-elaboratori|Elementi di Architettura degli Elaboratori e Sistemi Operativi]]
 

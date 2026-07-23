@@ -1,5 +1,5 @@
 ---
-title: The Complete Learning System — All Evidence-Based Frameworks Unified
+title: "The Complete Learning System: All Evidence-Based Frameworks Unified"
 ---
 
 # The Complete Learning System
@@ -64,10 +64,10 @@ These are the ONLY strategies with strong scientific evidence. Everything else b
 
 ## How to Combine Them (Learning Scientists)
 
-1. **Spacing is the container** — it's about WHEN, not HOW. Every other strategy must be spaced.
-2. **Retrieval practice integrates with ALL** — elaborate from memory, sketch from memory, create examples from memory.
-3. **Dual coding amplifies everything** — add visuals to elaboration, examples, and retrieval.
-4. **Concrete examples + elaboration** — trade examples with peers, explain how they fit.
+1. **Spacing is the container**: it's about WHEN, not HOW. Every other strategy must be spaced.
+2. **Retrieval practice integrates with ALL**: elaborate from memory, sketch from memory, create examples from memory.
+3. **Dual coding amplifies everything**: add visuals to elaboration, examples, and retrieval.
+4. **Concrete examples + elaboration**: trade examples with peers, explain how they fit.
 
 ---
 
@@ -86,7 +86,7 @@ These are the ONLY strategies with strong scientific evidence. Everything else b
 
 ---
 
-## GOAT ME — Study Based on How Memory Works (u/Salticido)
+## GOAT ME: Study Based on How Memory Works (u/Salticido)
 
 Memory = Attention → Encoding → Retrieval. Optimize the first two.
 
@@ -101,7 +101,7 @@ Memory = Attention → Encoding → Retrieval. Optimize the first two.
 
 ---
 
-## Dunlosky 2013 — Scientific Ranking of Techniques
+## Dunlosky 2013: Scientific Ranking of Techniques
 
 | Tier | Techniques |
 |------|-----------|
@@ -118,17 +118,17 @@ The definitive guide to formulating knowledge for spaced repetition.
 | # | Rule |
 |---|------|
 | 1 | Do not learn if you do not understand |
-| 2 | Learn before you memorize — build overall picture first |
+| 2 | Learn before you memorize: build overall picture first |
 | 3 | Build upon the basics |
 | 4 | Stick to minimum information principle |
 | 5 | Cloze deletion is easy and effective |
 | 6 | Use imagery |
 | 7 | Use mnemonic techniques |
 | 8 | Graphic deletion = cloze deletion for images |
-| 9 | Avoid sets — convert to enumerations |
-| 10 | Avoid enumerations — use overlapping cloze |
-| 11 | Combat interference — similar items confuse |
-| 12 | Optimize wording — fewer words = faster |
+| 9 | Avoid sets: convert to enumerations |
+| 10 | Avoid enumerations: use overlapping cloze |
+| 11 | Combat interference: similar items confuse |
+| 12 | Optimize wording: fewer words = faster |
 | 13 | Refer to other memories |
 | 14 | Personalize and provide examples |
 | 15 | Rely on emotional states |
@@ -136,7 +136,7 @@ The definitive guide to formulating knowledge for spaced repetition.
 | 17 | Redundancy ≠ violation of minimum information |
 | 18 | Provide sources |
 | 19 | Provide date stamping |
-| 20 | Prioritize — you can't learn everything |
+| 20 | Prioritize: you can't learn everything |
 
 ---
 
@@ -159,8 +159,8 @@ The definitive guide to formulating knowledge for spaced repetition.
 
 ## Our Note-Taking Workflow
 
-1. **Don't take notes during lectures** — listen and understand
-2. **Same evening** — write notes FROM MEMORY
+1. **Don't take notes during lectures**: listen and understand
+2. **Same evening**: write notes FROM MEMORY
 3. **Fill gaps** with textbook and lecture slides
 4. **Structure:** Index → Year → Semester → Course → Week → Topic
 5. **Link topics** with wikilinks
@@ -168,7 +168,7 @@ The definitive guide to formulating knowledge for spaced repetition.
 
 ---
 
-## Anki Spaced Repetition — Key Concepts
+## Anki Spaced Repetition: Key Concepts
 
 | Concept | Meaning |
 |---------|---------|
@@ -229,19 +229,19 @@ gantt
 timeline
     title Memory Consolidation Timeline
     section Day 0
-      Immediate : Close book, recall aloud
-      +1 hour : Read your sentence, test recall
-      +3 hours : Say concept while active
-      Before sleep : Review all sentences aloud
+      Immediate: Close book, recall aloud
+      +1 hour: Read your sentence, test recall
+      +3 hours: Say concept while active
+      Before sleep: Review all sentences aloud
     section Day 1
-      Next morning : Sleep consolidated memory
-      Explain without looking : Test what survived
+      Next morning: Sleep consolidated memory
+      Explain without looking: Test what survived
     section Day 3
-      Quick vocal recall : Moving to cortex
+      Quick vocal recall: Moving to cortex
     section Day 7
-      2-minute check : Long-term memory forming
+      2-minute check: Long-term memory forming
     section Day 30
-      Final check : Permanent semantic memory
+      Final check: Permanent semantic memory
 ```
 
 | When | Action | Time |
@@ -313,9 +313,9 @@ date: YYYY-MM-DD
 
 **What it is:** (One sentence)
 
-**How it works:** (Two sentences — like to a 10-year-old)
+**How it works:** (Two sentences: like to a 10-year-old)
 
-**Why it connects:** (One sentence — link to other notes)
+**Why it connects:** (One sentence: link to other notes)
 
 **My example:** (A concrete, personal, stupid example)
 ```
@@ -331,7 +331,7 @@ date: YYYY-MM-DD
 - Studying 3+ hours nonstop
 - Rereading without retrieval
 - Shared Anki decks without understanding
-- Learning styles (visual/auditory/kinesthetic — debunked)
+- Learning styles (visual/auditory/kinesthetic: debunked)
 - Passive summarization
 
 ---

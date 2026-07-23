@@ -14,15 +14,15 @@ While reading, do NOT write polished notes. Switching between reading and writin
 - A slip of paper with page number + one-line thought
 - A quick highlight with a one-sentence note
 
-These annotations are not notes. They are reminders — hooks that say "look at this passage again." They carry just enough information to recreate your mental context from that moment of reading.
+These annotations are not notes. They are reminders: hooks that say "look at this passage again." They carry just enough information to recreate your mental context from that moment of reading.
 
 For physical books, I use a pocket memo pad. For digital, I use in-app highlights exported to a working note.
 
 ## Phase 2: Process into Permanent Notes
 
-Days later — ideally in the morning, when my mind is clear — I process the annotations.
+Days later: ideally in the morning, when my mind is clear: I process the annotations.
 
-**1. Cluster the scraps.** Spread them out. Patterns emerge. Some ideas cluster together. Some were interesting in the moment but seem shallow now — discard those.
+**1. Cluster the scraps.** Spread them out. Patterns emerge. Some ideas cluster together. Some were interesting in the moment but seem shallow now: discard those.
 
 **2. Identify the key concepts.** Do not use the book's table of contents. Use your own mental model. What are the concepts that matter to YOU, organized around YOUR existing knowledge?
 
@@ -36,7 +36,7 @@ Days later — ideally in the morning, when my mind is clear — I process the a
 
 ## What Not to Do
 
-Do NOT try to summarize the book. Do NOT organize notes by the book's chapter structure. Do NOT keep literature notes mixed with your permanent notes — they are separate things. Literature notes capture someone else's thoughts in their framework. Permanent notes capture your thoughts in your framework. Keep them apart.
+Do NOT try to summarize the book. Do NOT organize notes by the book's chapter structure. Do NOT keep literature notes mixed with your permanent notes: they are separate things. Literature notes capture someone else's thoughts in their framework. Permanent notes capture your thoughts in your framework. Keep them apart.
 
 ## The Reading Inbox
 
@@ -44,4 +44,4 @@ To avoid a proliferation of anxiety-inducing tabs and a terrifying folder of PDF
 
 Items in the reading inbox get one of four fates: trashed (not worth reading), read deeply (with annotations and processing), read shallowly (skimmed and filed), or deferred to a specific list like "recipes to cook."
 
-The inbox must be drained regularly. An inbox that accumulates indefinitely stops being useful — it becomes another source of anxiety.
+The inbox must be drained regularly. An inbox that accumulates indefinitely stops being useful: it becomes another source of anxiety.

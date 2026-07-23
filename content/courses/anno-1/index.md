@@ -1,8 +1,8 @@
 ---
-title: Anno 1 — Corsi
+title: "Anno 1: Corsi"
 ---
 
-# Anno 1 — Programmazione e Gestione dei Sistemi Informatici
+# Anno 1: Programmazione e Gestione dei Sistemi Informatici
 
 **A.A. 2024-2025** | Università degli Studi di Perugia | Classe L-P03
 

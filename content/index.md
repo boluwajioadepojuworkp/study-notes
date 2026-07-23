@@ -8,11 +8,11 @@ Welcome to my knowledge graph. This is where I build my understanding, one conce
 
 ## How This Works
 
-I study using the [[come-studiare/5-step-method|5-Step Method]]. After each study session, I write one note from memory — not copying, but recalling. These notes grow over time and link together.
+I study using the [[come-studiare/5-step-method|5-Step Method]]. After each study session, I write one note from memory: not copying, but recalling. These notes grow over time and link together.
 
 ## Quick Access
 
-- [[agent-hub| Agent Hub — Study Command Center]] — All resources, agents, and tools in one dashboard
+- [[agent-hub| Agent Hub: Study Command Center]]: All resources, agents, and tools in one dashboard
 
 ## My Courses
 
@@ -20,7 +20,7 @@ I study using the [[come-studiare/5-step-method|5-Step Method]]. After each stud
 
 ## Mathematics Reference
 
-- [[math/index|Complete Math Reference]] — Algebra through Differential Equations (Paul's Notes)
+- [[math/index|Complete Math Reference]]: Algebra through Differential Equations (Paul's Notes)
 
 ## My Study System
 
@@ -37,7 +37,7 @@ I study using the [[come-studiare/5-step-method|5-Step Method]]. After each stud
 
 - [[notes/index|Methods & Tools]]
 - [[notes/how-i-write-notes|My Note-Writing System]]
-- [[notes/evergreen-notes|Evergreen Notes — Thinking in Writing]]
+- [[notes/evergreen-notes|Evergreen Notes: Thinking in Writing]]
 - [[notes/highlight-converter|Book Highlight Converter]]
 - [[notes/latex-templates|Academic Templates]]
 

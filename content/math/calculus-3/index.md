@@ -1,5 +1,5 @@
 ---
-title: Calculus III — Complete Reference
+title: "Calculus III: Complete Reference"
 source: https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx
 ---
 
