@@ -2,21 +2,22 @@
 title: All Courses
 ---
 
-# All Courses
+# Programmazione e Gestione dei Sistemi Informatici
 
-## Year 1
+**Università degli Studi di Perugia** | Classe L-P03 | Dipartimento di Matematica e Informatica
 
-### Semester 1
-- *Add your courses here*
+## Current Year: Anno 2
 
-### Semester 2
-- *Add your courses here*
+- [[anno-2/index|Anno 2 (2025-2026) — CURRENT]]
 
-## Year 2
+## Completed
 
-### Semester 1
-- *Add your courses here*
+- [[anno-1/index|Anno 1 (2024-2025) — COMPLETED]]
+
+## Future
+
+- Anno 3 (2026-2027) — Tirocinio + Prova Finale
 
 ---
 
-> After each lecture: don't take notes during class. Listen. Understand. Then in the evening, write one note per concept FROM MEMORY. Link it back here.
+> **Method:** After each lecture, write one note per concept FROM MEMORY. Use the [[templates/note-template|note template]]. Link concepts with [[wikilinks]]. The graph grows with every note.
