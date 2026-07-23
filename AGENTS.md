@@ -1,22 +1,22 @@
-# AGENTS.md — Study Notes Knowledge Graph
+# AGENTS.md: Study Notes Knowledge Graph
 
 ## Repository Structure
 ```
 notes-site/
 ├── content/                  # All notes in Markdown with YAML frontmatter
-│   ├── index.md              # Entry point — always update when adding sections
+│   ├── index.md              # Entry point: always update when adding sections
 │   ├── agent-hub.md          # Command center dashboard
 │   ├── courses/              # Course notes organized by year/semester/course
 │   ├── math/                 # Mathematics reference (Paul's Notes structure)
 │   ├── come-studiare/        # Study methodology documentation
 │   ├── notes/                # Reference materials on learning science
 │   └── templates/            # Note templates (excluded from publishing)
-├── quartz/                   # Quartz v5 engine — do not edit unless necessary
+├── quartz/                   # Quartz v5 engine: do not edit unless necessary
 ├── quartz.config.yaml        # Site configuration (baseUrl, plugins, theme)
 ├── .github/workflows/
 │   ├── deploy.yml            # Builds Quartz → deploys to gh-pages branch
 │   └── watch-neuper.yml      # Daily check for upstream updates (6 AM/PM UTC)
-└── public/                   # Generated output — never edit directly
+└── public/                   # Generated output: never edit directly
 ```
 
 ## Build Commands
@@ -47,7 +47,7 @@ npx quartz build -d content -v
 ```
 
 ## Anti-Patterns
-- Do not edit files in `public/` — they are generated and will be overwritten.
+- Do not edit files in `public/`: they are generated and will be overwritten.
 - Do not use emojis in content files. The specification prohibits them.
 - Do not write notes by copying from source material. Always retrieve from memory first.
 - Do not create notes without frontmatter. Missing frontmatter breaks metadata display.
@@ -55,9 +55,9 @@ npx quartz build -d content -v
 - Do not use absolute URLs for internal links. Wikilinks are resolved by Quartz's crawl-links plugin.
 
 ## Commit Conventions
-- `feat:` — New features (content sections, tools, workflows)
-- `docs:` — Documentation and reference notes
-- `fix:` — Corrections to existing notes or broken links
+- `feat:`: New features (content sections, tools, workflows)
+- `docs:`: Documentation and reference notes
+- `fix:`: Corrections to existing notes or broken links
 - Commit messages describe what changed, not why. Keep under 72 characters for the subject line.
 
 ## Deployment

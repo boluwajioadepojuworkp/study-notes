@@ -1,10 +1,10 @@
-# Study Notes — Personal Knowledge Graph
+# Study Notes: Personal Knowledge Graph
 
 A structured digital knowledge management system designed for STEM students. Built on evidence-based learning principles from cognitive psychology and spaced repetition research.
 
 ## Methodology
 
-This system implements retrieval practice, distributed practice, elaboration, interleaving, concrete examples, and dual coding — the six strategies identified by cognitive psychologists as having the strongest empirical support for improving long-term retention.
+This system implements retrieval practice, distributed practice, elaboration, interleaving, concrete examples, and dual coding: the six strategies identified by cognitive psychologists as having the strongest empirical support for improving long-term retention.
 
 Notes are written from memory after each study session, not transcribed during lectures. Each concept receives its own atomic note, interconnected through wikilinks that form a navigable knowledge graph. The graph visualizes conceptual relationships and identifies knowledge gaps.
 
@@ -25,8 +25,8 @@ flowchart LR
 content/
   index.md              Entry point
   courses/              Course-specific notes
-    anno-1/             Year 1 — Completed
-    anno-2/             Year 2 — Current
+    anno-1/             Year 1: Completed
+    anno-2/             Year 2: Current
   come-studiare/        Study methodology documentation
   notes/                Reference materials on learning science
   templates/            Note templates
