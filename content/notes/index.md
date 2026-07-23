@@ -19,6 +19,9 @@ Reference notes about methods, tools, and systems I use.
 - [[bloom-test]]
 - [[memory-loop]]
 
+## AI and Learning
+- [[learning-with-ai]]
+
 ## Note Taking Systems
 - [[how-i-write-notes]]
 - [[evergreen-notes]]
