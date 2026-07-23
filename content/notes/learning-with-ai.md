@@ -104,8 +104,5 @@ The rule that ties everything together: think first, ask second, verify always.
 
 ## Related
 
-- [[tool-first-thinking]]
-- [[bloom-test]]
-- [[memory-loop]]
 - [[understanding-requires-struggle]]
 - [[better-thinking-not-notes]]

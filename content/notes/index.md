@@ -13,16 +13,6 @@ Reference notes about methods, tools, and systems I use.
 - [[dunlosky-2013-study-techniques]]
 - [[supermemo-20-rules]]
 
-## Anki and Spaced Repetition
-- [[anki-mastery-levels]]
-- [[eat-flashcard-principles]]
-- [[tool-first-thinking]]
-- [[bloom-test]]
-- [[memory-loop]]
-
-## AI and Learning
-- [[learning-with-ai]]
-
 ## Note Taking Systems
 - [[how-i-write-notes]]
 - [[evergreen-notes]]
@@ -44,6 +34,7 @@ Reference notes about methods, tools, and systems I use.
 - [[understanding-requires-struggle]]
 - [[against-folders]]
 - [[graph-view-guide]]
+- [[note-writing-system]]
 
 ## Tools
 - [[highlight-converter]]
