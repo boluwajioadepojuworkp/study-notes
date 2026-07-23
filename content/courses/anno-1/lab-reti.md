@@ -13,8 +13,9 @@ Collegato a: [[anno-1/reti-computer|Reti di Computer]]
 
 ## Contenuti
 
-Laboratorio pratico di reti di calcolatori. Configurazione di reti LAN, subnetting IP, protocolli TCP/IP, simulazione di reti con Packet Tracer, analisi del traffico con Wireshark. Socket programming in C e Python.
+Configurazione di reti LAN con Packet Tracer. Subnetting IPv4 e IPv6. Analisi del traffico con Wireshark: cattura e filtraggio pacchetti. Socket programming: client-server TCP e UDP in C. Protocolli applicativi: HTTP, DNS, DHCP in pratica.
 
 ## Competenze acquisite
 
-Configurazione di switch e router, analisi di pacchetti di rete, programmazione di applicazioni client-server, troubleshooting di rete.
+Progettazione e configurazione di reti, analisi di protocolli a livello di pacchetto, programmazione di applicazioni di rete, troubleshooting di connettività.
+

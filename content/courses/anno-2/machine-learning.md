@@ -12,23 +12,11 @@ lingua: Inglese
 
 **Anno 2: Primo Semestre** | INF/01 | 6 CFU | INGLESE
 
-## Cosa sto imparando
+## Contenuti
 
-*Scrivi qui i concetti chiave dopo ogni lezione, FROM MEMORY.*
+Supervised learning: regressione lineare e logistica, SVM, alberi di decisione, random forest, k-NN. Unsupervised learning: k-means, PCA, clustering gerarchico. Neural networks: perceptron, backpropagation, deep learning (cenni). Model evaluation: cross-validation, bias-variance tradeoff, precision/recall, ROC. Regularization: L1, L2, dropout. Introduction to TensorFlow and scikit-learn.
 
-## Note
+## Competenze acquisite
 
-- *Aggiungi [[wikilinks]] ai concetti che studi*
+Implementazione di modelli ML in Python, selezione e tuning degli iperparametri, valutazione delle performance, comprensione teorica degli algoritmi principali.
 
-## Argomenti
-
-1. *Da compilare dopo la prima lezione*
-
-## Collegamenti
-
-- [[anno-2/index|Tutti i corsi del secondo anno]]
-- [[come-studiare/index|COME STUDIARE]]
-
----
-
-*Ultima modifica: 2026-07-23*

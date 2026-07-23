@@ -12,8 +12,9 @@ cfu: 3
 
 ## Contenuti
 
-Sviluppo frontend con HTML5, CSS3, JavaScript vanilla. DOM manipulation, event handling, fetch API. Responsive design con CSS Grid e Flexbox. Introduzione a un framework frontend moderno (React o Vue). Web storage, sessioni, cookie.
+HTML5 semantico e form. CSS3: Flexbox, Grid, animazioni, media queries. JavaScript ES6+: DOM manipulation, eventi, fetch API, async/await. LocalStorage e sessionStorage. Introduzione a React: componenti, state, props, hooks base. Webpack e Vite come bundler.
 
 ## Competenze acquisite
 
-Costruzione di interfacce web responsive, programmazione JavaScript lato client, consumo di API REST, gestione dello stato dell'applicazione nel browser.
+Costruzione di interfacce responsive, programmazione JavaScript moderna, comunicazione client-server asincrona, basi di sviluppo con React.
+

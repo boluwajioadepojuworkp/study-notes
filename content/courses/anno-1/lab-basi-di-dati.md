@@ -13,8 +13,9 @@ Collegato a: [[anno-1/basi-di-dati|Basi di Dati]]
 
 ## Contenuti
 
-Laboratorio pratico di progettazione e interrogazione di basi di dati relazionali. SQL: query SELECT, JOIN, GROUP BY, subquery. Progettazione di schemi entità-relazione. Normalizzazione di basi di dati. Utilizzo di PostgreSQL e SQLite.
+SQL pratico: SELECT complesse, JOIN, subquery, aggregazioni GROUP BY, HAVING. Progettazione ER: entità, relazioni, cardinalità. Normalizzazione pratica: dalla 1FN alla 3FN. Implementazione in PostgreSQL. Creazione di viste, indici, stored procedure.
 
 ## Competenze acquisite
 
-Scrittura di query SQL complesse, progettazione di database normalizzati, creazione di viste e indici, gestione delle transazioni.
+Scrittura di query SQL complesse su database reali, progettazione di schemi normalizzati, ottimizzazione delle interrogazioni, gestione di database relazionali.
+

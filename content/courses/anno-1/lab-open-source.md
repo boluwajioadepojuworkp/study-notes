@@ -11,8 +11,9 @@ cfu: 3
 
 ## Contenuti
 
-Introduzione al mondo open source. Utilizzo di Git e GitHub per il version control. Linux: shell, file system, permessi, scripting bash. Gestione di repository, branching, merging, pull request. Licenze open source (GPL, MIT, Apache).
+Git e GitHub: clone, commit, push, pull, branch, merge, pull request. Linux shell: navigazione, permessi, pipe, scripting bash. Markdown e documentazione tecnica. Licenze open source: GPL, MIT, Apache, Creative Commons. Contribuzione a progetti open source.
 
 ## Competenze acquisite
 
-Utilizzo professionale di Git, amministrazione base di sistemi Linux, contribuzione a progetti open source, gestione del ciclo di vita del software con Git.
+Gestione professionale del version control, amministrazione base Linux, scrittura di documentazione in Markdown, contribuzione a repository pubbliche.
+

@@ -12,8 +12,9 @@ cfu: 3
 
 ## Contenuti
 
-Sviluppo backend con Node.js ed Express. API RESTful: routing, middleware, autenticazione JWT. Database: integrazione con MongoDB e Mongoose. Deployment su cloud (Vercel, Railway). Testing con Jest e Supertest.
+Backend con Node.js ed Express: routing, middleware, autenticazione JWT, API RESTful. Database con MongoDB e Mongoose: schema, CRUD, aggregazioni. Full-stack: integrazione frontend React con backend Express. Testing: unit test con Jest, integration test con Supertest. Deploy: Vercel, Railway, variabili d'ambiente.
 
 ## Competenze acquisite
 
-Progettazione e implementazione di API REST, autenticazione e autorizzazione, integrazione con database NoSQL, deployment di applicazioni full-stack, testing automatizzato.
+Sviluppo full-stack JavaScript, progettazione API RESTful, integrazione database, testing automatizzato, deployment di applicazioni web.
+

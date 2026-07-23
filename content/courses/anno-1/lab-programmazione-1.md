@@ -13,8 +13,9 @@ Collegato a: [[anno-1/programmazione-1|Programmazione I]]
 
 ## Contenuti
 
-Esercitazioni pratiche di programmazione in C. Strutture di controllo, funzioni, array, puntatori, allocazione dinamica della memoria. Debugging con GDB. Compilazione con GCC e Makefile.
+Esercitazioni C: tipi, operatori, controllo di flusso. Funzioni e parametri. Array e stringhe. Puntatori e gestione dinamica della memoria. Struct e tipi definiti dall'utente. File I/O. Debugging con GDB e Valgrind. Makefile per compilazione automatica.
 
 ## Competenze acquisite
 
-Scrittura di programmi in C di media complessità, debugging sistematico, gestione della memoria, utilizzo di strumenti di build automation.
+Scrittura di programmi C corretti ed efficienti, debugging sistematico, gestione manuale della memoria senza leak, automazione della compilazione.
+

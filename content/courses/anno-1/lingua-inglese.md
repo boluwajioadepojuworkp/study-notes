@@ -11,8 +11,9 @@ cfu: 3
 
 ## Contenuti
 
-Inglese tecnico-scientifico per l'informatica. Reading comprehension di articoli tecnici. Writing di report e documentazione in inglese. Presentazioni orali su argomenti di informatica. Terminologia specifica del settore IT.
+Reading comprehension di testi tecnico-scientifici in informatica. Academic writing: struttura di report e essay. Listening: conferenze e presentazioni tecniche. Speaking: presentazioni orali su argomenti IT. Vocabolario tecnico: terminology specifica del settore.
 
 ## Competenze acquisite
 
-Lettura e comprensione di documentazione tecnica in inglese, scrittura di email e report professionali, presentazioni tecniche in lingua inglese.
+Comprensione e produzione di testi tecnici in inglese, presentazioni orali professionali, partecipazione a discussioni tecniche in lingua inglese.
+

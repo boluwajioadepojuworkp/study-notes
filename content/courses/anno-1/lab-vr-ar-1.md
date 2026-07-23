@@ -11,8 +11,9 @@ cfu: 3
 
 ## Contenuti
 
-Introduzione alla realtà virtuale e aumentata. Sviluppo di applicazioni VR con Unity e C#. Interazione 3D: raycasting, grabbing, locomotion. Creazione di ambienti immersivi. Hardware VR: visori, controller, tracking.
+Unity 3D: interfaccia, GameObject, componenti, prefab. Scripting in C# per Unity. Fisica e collisioni. Raycasting e interazione con oggetti. Sviluppo per visori VR: Oculus Quest, interazione con controller. Realtà aumentata con AR Foundation.
 
 ## Competenze acquisite
 
-Sviluppo di applicazioni VR base in Unity, progettazione di esperienze immersive, programmazione di interazioni 3D, ottimizzazione per performance VR.
+Sviluppo di esperienze VR/AR in Unity, programmazione C# per ambienti 3D, design di interfacce utente spaziali, ottimizzazione per dispositivi VR.
+

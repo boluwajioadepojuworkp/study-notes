@@ -11,8 +11,9 @@ cfu: 3
 
 ## Contenuti
 
-Laboratorio di Human-Computer Interaction. Principi di usabilità e user experience design. Wireframing e prototyping con Figma. Valutazione euristica delle interfacce. User testing e analisi dei risultati. Accessibilità web (WCAG).
+Principi di usabilità: Nielsen's heuristics, affordance, feedback. User research: interviste, personas, scenari d'uso. Prototipazione: wireframe, mockup, prototipi interattivi con Figma. Valutazione: test di usabilità, think-aloud protocol, heuristic evaluation. Accessibilità: WCAG, screen reader, color contrast.
 
 ## Competenze acquisite
 
-Progettazione di interfacce utente usabili, conduzione di test di usabilità, creazione di prototipi interattivi, applicazione delle linee guida per l'accessibilità.
+Progettazione centrata sull'utente, creazione di prototipi interattivi, conduzione di test di usabilità, valutazione dell'accessibilità di interfacce.
+
