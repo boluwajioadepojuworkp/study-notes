@@ -22,6 +22,10 @@ Reference notes about methods, tools, and systems I use.
 ## Note Taking Systems
 - [[how-i-write-notes]]
 - [[evergreen-notes]]
+- [[knowledge-work-accretes]]
+- [[better-thinking-not-notes]]
+- [[executable-writing-strategy]]
+- [[write-to-internalize]]
 - [[note-titles-as-apis]]
 - [[writing-from-reading]]
 - [[processing-reading]]
