@@ -13,11 +13,11 @@ Reference notes about methods, tools, and systems I use.
 - [[notes/supermemo-20-rules|SuperMemo — 20 Rules of Formulating Knowledge (Wozniak)]]
 
 ## Note-Taking Systems
+- [[notes/how-i-write-notes|How I Write Notes That Actually Think — My Complete System]]
+- [[notes/evergreen-notes|Evergreen Notes — Thinking in Writing]]
 - [[notes/neuper-note-method|Michael Neuper's Note Method]]
-- [[notes/matuschak-evergreen-notes|Andy Matuschak's Evergreen Notes]]
-- [[notes/matuschak-complete-system|Matuschak's Complete Note-Writing System]]
 - [[notes/supermemo-20-rules|SuperMemo — 20 Rules of Formulating Knowledge (Wozniak)]]
-- [[notes/graph-view-guide|How to Use the Knowledge Graph (ORUI equivalent)]]
+- [[notes/graph-view-guide|How to Use the Knowledge Graph]]
 
 ## Tools
 - [[notes/highlight-converter|Book Highlight Converter]]
