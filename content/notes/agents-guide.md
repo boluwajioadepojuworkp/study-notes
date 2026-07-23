@@ -1,4 +1,9 @@
-# YOUR AI AGENTS — What They Do & How to Use Them
+---
+title: AI Agents — Capabilities and Usage
+draft: true
+---
+
+# AI Agents — What They Do & How to Use Them
 
 > These agents work from **any VS Code window, any folder**. Just type the invocation phrase and Copilot will switch to that role.
 

@@ -1,5 +1,6 @@
 ---
-title: Agent Hub — Your Study Command Center
+title: Agent Hub — Study Command Center
+draft: true
 ---
 
 # Agent Hub — Study Command Center

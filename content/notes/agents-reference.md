@@ -1,6 +1,11 @@
-# AGENTS.md — Custom AI Agents for the COME STUDIARE System
+---
+title: Agent Reference — Internal
+draft: true
+---
 
-> This file defines specialized agents that assist with studying, note-taking, math, coding, and knowledge management. Each agent has a specific role and is invoked for its domain.
+# Agent Reference
+
+> Internal reference for AI agents assisting with studying, note-taking, math, coding, and knowledge management.
 
 ---
 
