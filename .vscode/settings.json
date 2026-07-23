@@ -1,0 +1,29 @@
+{
+  "foam.files.ignore": [
+    "node_modules",
+    "public",
+    ".quartz",
+    "templates"
+  ],
+  "foam.graph.titleMaxLength": 60,
+  "foam.openDailyNote.directory": "content/daily",
+  "foam.openDailyNote.filenameFormat": "'daily'-yyyy-mm-dd",
+  "foam.openDailyNote.titleFormat": "'Daily Note —' yyyy-mm-dd",
+  "markdown.extension.toc.levels": "2..4",
+  "markdown.preview.breaks": true,
+  "markdownlint.config": {
+    "MD013": false,
+    "MD033": false,
+    "MD041": false
+  },
+  "files.exclude": {
+    "node_modules": true,
+    "public": true,
+    ".quartz": true
+  },
+  "files.associations": {
+    "*.md": "markdown"
+  },
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false
+}

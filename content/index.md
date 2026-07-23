@@ -10,6 +10,10 @@ Welcome to my knowledge graph. This is where I build my understanding, one conce
 
 I study using the [[come-studiare/5-step-method|5-Step Method]]. After each study session, I write one note from memory — not copying, but recalling. These notes grow over time and link together.
 
+## Quick Access
+
+- [[agent-hub| Agent Hub — Study Command Center]] — All resources, agents, and tools in one dashboard
+
 ## My Courses
 
 - [[courses/index|All Courses]]
