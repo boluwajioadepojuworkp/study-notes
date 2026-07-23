@@ -10,12 +10,10 @@ cfu: 3
 
 **Anno 2: Secondo Semestre** | 3 CFU
 
-## Procedure
+## Contenuti
 
-*Scrivi le procedure FROM MEMORY dopo ogni laboratorio.*
+Sviluppo avanzato di applicazioni VR/AR. Realtà aumentata con ARCore e ARKit. Sviluppo per visori standalone (Meta Quest). Ottimizzazione delle performance: LOD, occlusion culling, texture atlasing. Multiplayer in VR: sincronizzazione, networked physics. Interaction design avanzato.
 
-1. *Da compilare*
+## Competenze acquisite
 
----
-
-*Ultima modifica: 2026-07-23*
+Sviluppo di applicazioni AR mobile, ottimizzazione avanzata per VR, implementazione di esperienze multiplayer in realtà virtuale, progettazione di interfacce utente spaziali.

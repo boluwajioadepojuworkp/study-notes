@@ -11,6 +11,10 @@ cfu: 3
 
 Collegato a: [[anno-1/architettura-elaboratori|Elementi di Architettura degli Elaboratori e Sistemi Operativi]]
 
----
+## Contenuti
 
-*Completato A.A. 2024-2025*
+Laboratorio di architettura dei calcolatori. Simulazione di circuiti logici con Logisim. Assembly x86: registri, istruzioni, stack, chiamate di sistema. Programmazione di microcontrollori. Interfacciamento hardware-software.
+
+## Competenze acquisite
+
+Programmazione in linguaggio assembly, comprensione del funzionamento della CPU a basso livello, progettazione di circuiti digitali, programmazione embedded base.

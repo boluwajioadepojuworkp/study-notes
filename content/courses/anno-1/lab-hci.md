@@ -9,8 +9,10 @@ cfu: 3
 
 **Anno 1: Primo Semestre** | 3 CFU
 
-*Laboratorio su interfacce utente, usabilità, design dell'interazione.*
+## Contenuti
 
----
+Laboratorio di Human-Computer Interaction. Principi di usabilità e user experience design. Wireframing e prototyping con Figma. Valutazione euristica delle interfacce. User testing e analisi dei risultati. Accessibilità web (WCAG).
 
-*Completato A.A. 2024-2025*
+## Competenze acquisite
+
+Progettazione di interfacce utente usabili, conduzione di test di usabilità, creazione di prototipi interattivi, applicazione delle linee guida per l'accessibilità.

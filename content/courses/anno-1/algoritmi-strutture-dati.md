@@ -10,10 +10,10 @@ cfu: 6
 
 **Anno 1: Secondo Semestre** | INF/01 | 6 CFU
 
-## Cosa ho imparato
+## Contenuti
 
-*Algoritmi di ordinamento, strutture dati (liste, alberi, grafi), complessità computazionale.*
+Algoritmi di ordinamento: merge sort, quicksort, heapsort. Strutture dati: liste concatenate, pile, code, alberi binari di ricerca, heap, tabelle hash, grafi. Analisi di complessità computazionale (notazione O grande). Algoritmi su grafi: BFS, DFS, Dijkstra. Programmazione dinamica e greedy.
 
----
+## Competenze acquisite
 
-*Corso completato A.A. 2024-2025*
+Analisi della complessità temporale e spaziale degli algoritmi, scelta della struttura dati appropriata per un problema dato, implementazione efficiente di algoritmi classici in C o Python.

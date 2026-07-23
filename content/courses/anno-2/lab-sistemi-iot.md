@@ -10,14 +10,10 @@ cfu: 3
 
 **Anno 2: Secondo Semestre** | 3 CFU
 
-Collegato a: [[anno-2/sistemi-elettronici-sensori|Sistemi Elettronici e Sensori]]
+## Contenuti
 
-## Procedure
+Laboratorio di Internet of Things. Programmazione di ESP32 e Arduino con C/C++. Sensori e attuatori: temperatura, umidità, movimento, display. Protocolli IoT: MQTT, CoAP, BLE. Comunicazione con il cloud: invio dati a database remoti. Dashboard di monitoraggio con Node-RED.
 
-*Scrivi le procedure FROM MEMORY dopo ogni laboratorio.*
+## Competenze acquisite
 
-1. *Da compilare*
-
----
-
-*Ultima modifica: 2026-07-23*
+Programmazione di microcontrollori, integrazione di sensori e attuatori, progettazione di architetture IoT end-to-end, visualizzazione di dati da sensori in tempo reale.

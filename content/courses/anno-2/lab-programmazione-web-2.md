@@ -10,12 +10,10 @@ cfu: 3
 
 **Anno 2: Secondo Semestre** | 3 CFU
 
-## Procedure
+## Contenuti
 
-*Scrivi le procedure FROM MEMORY dopo ogni laboratorio.*
+Sviluppo backend con Node.js ed Express. API RESTful: routing, middleware, autenticazione JWT. Database: integrazione con MongoDB e Mongoose. Deployment su cloud (Vercel, Railway). Testing con Jest e Supertest.
 
-1. *Da compilare*
+## Competenze acquisite
 
----
-
-*Ultima modifica: 2026-07-23*
+Progettazione e implementazione di API REST, autenticazione e autorizzazione, integrazione con database NoSQL, deployment di applicazioni full-stack, testing automatizzato.

@@ -8,16 +8,12 @@ cfu: 6
 
 # Reti di Computer ed Internet
 
-**Anno 1: Secondo Semestre** | ING-INF/05 | 6 CFU
+**Anno 1: Secondo Semestre** | INF/01 | 6 CFU
 
-## Cosa ho imparato
+## Contenuti
 
-*Protocolli di rete, TCP/IP, architettura Internet.*
+Architettura di rete a strati: modello OSI e TCP/IP. Livello fisico: mezzi trasmissivi, codifica dei segnali. Livello data link: framing, controllo degli errori, protocolli ARQ. Livello rete: indirizzamento IPv4/IPv6, routing (RIP, OSPF, BGP). Livello trasporto: TCP e UDP, controllo di congestione. Livello applicazione: HTTP, DNS, SMTP.
 
-## Collegamenti
+## Competenze acquisite
 
-- [[anno-1/lab-reti|Lab. Reti]]
-
----
-
-*Corso completato A.A. 2024-2025*
+Comprensione del funzionamento di Internet a tutti i livelli, calcolo di sottoreti e piani di indirizzamento, analisi dei protocolli di rete, diagnosi di problemi di connettività.

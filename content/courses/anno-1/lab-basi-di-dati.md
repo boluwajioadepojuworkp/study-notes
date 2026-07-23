@@ -11,6 +11,10 @@ cfu: 3
 
 Collegato a: [[anno-1/basi-di-dati|Basi di Dati]]
 
----
+## Contenuti
 
-*Completato A.A. 2024-2025*
+Laboratorio pratico di progettazione e interrogazione di basi di dati relazionali. SQL: query SELECT, JOIN, GROUP BY, subquery. Progettazione di schemi entità-relazione. Normalizzazione di basi di dati. Utilizzo di PostgreSQL e SQLite.
+
+## Competenze acquisite
+
+Scrittura di query SQL complesse, progettazione di database normalizzati, creazione di viste e indici, gestione delle transazioni.

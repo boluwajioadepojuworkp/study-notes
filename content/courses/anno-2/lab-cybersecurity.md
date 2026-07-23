@@ -8,14 +8,14 @@ cfu: 3
 
 # Lab. Cybersecurity
 
-**Anno 2: Primo Semestre** | 3 CFU | [[anno-2/cybersecurity|Cybersecurity]]
+**Anno 2: Primo Semestre** | 3 CFU
 
-## Procedure
+Collegato a: [[anno-2/cybersecurity|Cybersecurity]]
 
-*Scrivi le procedure FROM MEMORY dopo ogni laboratorio.*
+## Contenuti
 
-1. *Da compilare*
+Laboratorio pratico di sicurezza informatica. Penetration testing con Kali Linux. Analisi di vulnerabilità con Nmap, Metasploit, Burp Suite. Crittografia applicata: TLS, hashing, firma digitale. Sicurezza web: XSS, SQL injection, CSRF. Hardening di sistemi Linux.
 
----
+## Competenze acquisite
 
-*Ultima modifica: 2026-07-23*
+Conduzione di penetration test, identificazione e sfruttamento di vulnerabilità comuni, configurazione di firewall e IDS, applicazione delle best practice di sicurezza.

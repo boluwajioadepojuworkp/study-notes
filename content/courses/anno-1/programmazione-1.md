@@ -10,15 +10,10 @@ cfu: 6
 
 **Anno 1: Primo Semestre** | INF/01 | 6 CFU
 
-## Cosa ho imparato
+## Contenuti
 
-*Fondamenti di programmazione in C e C++.*
+Fondamenti di programmazione in linguaggio C. Tipi di dato, operatori, espressioni. Strutture di controllo: if, switch, while, for. Funzioni e passaggio di parametri. Array, stringhe, struct. Puntatori e aritmetica dei puntatori. Allocazione dinamica: malloc, calloc, free. File I/O. Ricorsione. Cenni di complessità computazionale.
 
-## Collegamenti
+## Competenze acquisite
 
-- [[anno-1/lab-programmazione-1|Lab. Programmazione I]]
-- [[anno-2/programmazione-2|Programmazione II]] (Anno 2)
-
----
-
-*Corso completato A.A. 2024-2025*
+Padronanza della sintassi e semantica del linguaggio C, risoluzione di problemi attraverso la programmazione strutturata, gestione manuale della memoria, debugging di programmi.

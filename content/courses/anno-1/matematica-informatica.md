@@ -8,12 +8,12 @@ cfu: 6
 
 # Matematica per l'Informatica
 
-**Anno 1: Primo Semestre** | MAT/05 | 6 CFU
+**Anno 1: Secondo Semestre** | MAT/03 | 6 CFU
 
-## Cosa ho imparato
+## Contenuti
 
-*Matematica discreta, logica, algebra lineare per l'informatica.*
+Matematica discreta per l'informatica. Logica proposizionale e predicativa. Insiemi, relazioni e funzioni. Induzione matematica e ricorsione. Teoria dei grafi: cammini, circuiti, alberi, colorazione. Elementi di probabilità e statistica.
 
----
+## Competenze acquisite
 
-*Corso completato A.A. 2024-2025*
+Ragionamento logico-formale, dimostrazioni per induzione, modellazione di problemi con grafi, calcolo combinatorio, analisi probabilistica di algoritmi.

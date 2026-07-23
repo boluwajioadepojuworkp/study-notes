@@ -10,18 +10,10 @@ cfu: 3
 
 **Anno 2: Secondo Semestre** | 3 CFU
 
-## Cosa sto imparando
+## Contenuti
 
-*Laboratorio pratico sulla gestione delle emergenze nei sistemi informatici.*
+Laboratorio sulla gestione delle emergenze con tecnologie ICT. Sistemi di early warning e allertamento. Simulazioni di scenari di emergenza con strumenti digitali. Utilizzo di GIS per la mappatura dei rischi. Protocolli di comunicazione in emergenza. Analisi post-emergenza e lesson learned. Tecnologie per il coordinamento dei soccorsi.
 
-## Procedure
+## Competenze acquisite
 
-1. *Da compilare dopo la prima sessione di lab*
-
-## Note
-
-- *Scrivi le procedure FROM MEMORY dopo ogni lab*
-
----
-
-*Ultima modifica: 2026-07-23*
+Progettazione di sistemi ICT per la gestione delle emergenze, utilizzo di strumenti GIS, pianificazione della risposta a scenari di crisi, coordinamento tecnico in situazioni di emergenza simulate.

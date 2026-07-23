@@ -12,18 +12,10 @@ lingua: Inglese
 
 **Anno 2: Secondo Semestre** | INF/01 | 6 CFU | INGLESE
 
-## Cosa sto imparando
+## Contenuti
 
-*Scrivi qui i concetti chiave dopo ogni lezione, FROM MEMORY.*
+Modelli di servizio cloud: IaaS, PaaS, SaaS, FaaS. Virtualizzazione: hypervisor, container. Architetture cloud-native: microservizi, serverless, event-driven. Scalabilità orizzontale e verticale, load balancing, auto-scaling. Storage cloud: object storage, block storage, database managed. Reti cloud: VPC, CDN, DNS. Sicurezza nel cloud: shared responsibility model, IAM, encryption. Economia del cloud: modelli di costo, ottimizzazione.
 
-## Note
+## Competenze acquisite
 
-- [[anno-2/lab-cloud|Lab. Cloud Computing]]
-
-## Argomenti
-
-1. *Da compilare dopo la prima lezione*
-
----
-
-*Ultima modifica: 2026-07-23*
+Progettazione di architetture cloud scalabili, selezione dei servizi cloud appropriati, stima e ottimizzazione dei costi, implementazione di strategie di disaster recovery.

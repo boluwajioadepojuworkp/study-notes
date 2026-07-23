@@ -11,18 +11,10 @@ cfu: 6
 
 **Anno 2: Primo Semestre** | INF/01 | 6 CFU
 
-## Cosa sto imparando
+## Contenuti
 
-*Scrivi qui i concetti chiave dopo ogni lezione, FROM MEMORY.*
+Programmazione orientata agli oggetti in Java. Classi, oggetti, incapsulamento, ereditarietà, polimorfismo. Interfacce e classi astratte. Eccezioni e gestione degli errori. Collezioni: List, Set, Map, Queue. Stream e lambda expression. Programmazione concorrente con i thread. Design pattern fondamentali.
 
-## Note
+## Competenze acquisite
 
-- *Aggiungi [[wikilinks]] ai concetti che studi*
-
-## Argomenti
-
-1. *Da compilare dopo la prima lezione*
-
----
-
-*Ultima modifica: 2026-07-23*
+Progettazione orientata agli oggetti, implementazione di gerarchie di classi ben strutturate, programmazione concorrente, utilizzo delle API standard di Java.

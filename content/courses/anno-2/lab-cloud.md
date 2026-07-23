@@ -8,14 +8,14 @@ cfu: 3
 
 # Lab. Cloud Computing
 
-**Anno 2: Secondo Semestre** | 3 CFU | [[anno-2/cloud-computing|Cloud Computing]]
+**Anno 2: Secondo Semestre** | 3 CFU
 
-## Procedure
+Collegato a: [[anno-2/cloud-computing|Cloud Computing]]
 
-*Scrivi le procedure FROM MEMORY dopo ogni laboratorio.*
+## Contenuti
 
-1. *Da compilare*
+Laboratorio pratico di cloud computing. Utilizzo di AWS (EC2, S3, Lambda, RDS). Containerizzazione con Docker: Dockerfile, docker-compose, volumi, reti. Orchestrazione con Kubernetes base. CI/CD con GitHub Actions. Infrastructure as Code con Terraform.
 
----
+## Competenze acquisite
 
-*Ultima modifica: 2026-07-23*
+Deployment di applicazioni su AWS, containerizzazione di servizi, automazione delle pipeline di build e deploy, gestione di infrastrutture cloud con approccio dichiarativo.

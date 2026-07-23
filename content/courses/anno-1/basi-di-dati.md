@@ -8,16 +8,12 @@ cfu: 6
 
 # Basi di Dati
 
-**Anno 1: Secondo Semestre** | ING-INF/05 | 6 CFU
+**Anno 1: Secondo Semestre** | INF/01 | 6 CFU
 
-## Cosa ho imparato
+## Contenuti
 
-*Modello relazionale, SQL, progettazione di database.*
+Modello relazionale: tabelle, chiavi, vincoli di integrità. Algebra relazionale e calcolo relazionale. Linguaggio SQL: DDL, DML, DCL. Progettazione concettuale con il modello Entità-Relazione. Normalizzazione: 1FN, 2FN, 3FN, BCNF. Transazioni e controllo di concorrenza. Cenni a database NoSQL.
 
-## Collegamenti
+## Competenze acquisite
 
-- [[anno-1/lab-basi-di-dati|Lab. Basi di Dati]]
-
----
-
-*Corso completato A.A. 2024-2025*
+Progettazione di database relazionali normalizzati, scrittura di query SQL complesse, gestione delle transazioni, modellazione concettuale di domini applicativi.

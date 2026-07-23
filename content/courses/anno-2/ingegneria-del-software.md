@@ -9,20 +9,12 @@ cfu: 6
 
 # Ingegneria del Software
 
-**Anno 2: Secondo Semestre** | INF/01 | 6 CFU
+**Anno 2: Primo Semestre** | INF/01 | 6 CFU
 
-## Cosa sto imparando
+## Contenuti
 
-*Scrivi qui i concetti chiave dopo ogni lezione, FROM MEMORY.*
+Ciclo di vita del software: waterfall, agile, DevOps. Analisi e specifica dei requisiti: casi d'uso, user stories. Progettazione architetturale: pattern MVC, layered, microservizi. UML: diagrammi di classe, sequenza, attività. Qualità del software: metriche, code review, refactoring. Testing: unit, integration, system, acceptance. Manutenzione ed evoluzione del software. Gestione della configurazione e versioning.
 
-## Note
+## Competenze acquisite
 
-- [[anno-2/lab-ingegneria-software|Lab. Ingegneria del Software]]
-
-## Argomenti
-
-1. *Da compilare dopo la prima lezione*
-
----
-
-*Ultima modifica: 2026-07-23*
+Analisi dei requisiti e progettazione di sistemi software complessi, applicazione di metodologie di sviluppo, valutazione della qualità del codice, pianificazione di test.

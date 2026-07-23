@@ -10,14 +10,10 @@ cfu: 6
 
 **Anno 1: Primo Semestre** | INF/01 | 6 CFU
 
-## Cosa ho imparato
+## Contenuti
 
-*Architettura dei calcolatori, CPU, memoria, sistemi operativi.*
+Architettura di von Neumann: CPU, memoria, bus, I/O. Rappresentazione dell'informazione: numeri binari, esadecimali, complemento a due, virgola mobile (IEEE 754). Algebra booleana e porte logiche. Circuiti combinatori e sequenziali. Il set di istruzioni: RISC vs CISC, formati, modi di indirizzamento. Pipeline e hazard. Gerarchia di memoria: cache, memoria virtuale, TLB. Sistemi operativi: processi, scheduling, file system.
 
-## Concetti chiave
+## Competenze acquisite
 
-- [[anno-1/lab-architettura|Lab. Architettura degli Elaboratori]]
-
----
-
-*Corso completato A.A. 2024-2025*
+Comprensione del funzionamento interno di un calcolatore, analisi delle prestazioni di un processore, progettazione di semplici circuiti digitali, comprensione della gestione della memoria e dei processi.

@@ -9,8 +9,12 @@ cfu: 3
 
 **Anno 1: Secondo Semestre** | 3 CFU
 
-Collegato a: [[anno-1/reti-computer|Reti di Computer ed Internet]]
+Collegato a: [[anno-1/reti-computer|Reti di Computer]]
 
----
+## Contenuti
 
-*Completato A.A. 2024-2025*
+Laboratorio pratico di reti di calcolatori. Configurazione di reti LAN, subnetting IP, protocolli TCP/IP, simulazione di reti con Packet Tracer, analisi del traffico con Wireshark. Socket programming in C e Python.
+
+## Competenze acquisite
+
+Configurazione di switch e router, analisi di pacchetti di rete, programmazione di applicazioni client-server, troubleshooting di rete.

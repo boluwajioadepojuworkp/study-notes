@@ -9,20 +9,12 @@ cfu: 6
 
 # Sistemi Elettronici e Sensori per l'Informatica
 
-**Anno 2: Primo Semestre** | FIS/04 | 6 CFU
+**Anno 2: Primo Semestre** | ING-INF/01 | 6 CFU
 
-## Cosa sto imparando
+## Contenuti**
 
-*Scrivi qui i concetti chiave dopo ogni lezione, FROM MEMORY.*
+Fondamenti di elettronica analogica e digitale. Sensori: temperatura, pressione, accelerometri, giroscopi, sensori ottici. Condizionamento del segnale: amplificazione, filtraggio, conversione A/D e D/A. Microcontrollori e sistemi embedded. Protocolli di comunicazione: I2C, SPI, UART. Sistemi di acquisizione dati. Elaborazione del segnale digitale (cenni).
 
-## Note
+## Competenze acquisite
 
-- *Aggiungi [[wikilinks]] ai concetti che studi*
-
-## Argomenti
-
-1. *Da compilare dopo la prima lezione*
-
----
-
-*Ultima modifica: 2026-07-23*
+Scelta e integrazione di sensori per applicazioni specifiche, progettazione di circuiti di condizionamento, programmazione di sistemi di acquisizione dati, elaborazione base dei segnali.

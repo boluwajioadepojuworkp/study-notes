@@ -11,6 +11,10 @@ cfu: 3
 
 Collegato a: [[anno-1/programmazione-1|Programmazione I]]
 
----
+## Contenuti
 
-*Completato A.A. 2024-2025*
+Esercitazioni pratiche di programmazione in C. Strutture di controllo, funzioni, array, puntatori, allocazione dinamica della memoria. Debugging con GDB. Compilazione con GCC e Makefile.
+
+## Competenze acquisite
+
+Scrittura di programmi in C di media complessità, debugging sistematico, gestione della memoria, utilizzo di strumenti di build automation.

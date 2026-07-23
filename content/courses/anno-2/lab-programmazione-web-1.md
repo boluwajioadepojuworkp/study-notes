@@ -10,12 +10,10 @@ cfu: 3
 
 **Anno 2: Primo Semestre** | 3 CFU
 
-## Procedure
+## Contenuti
 
-*Scrivi le procedure FROM MEMORY dopo ogni laboratorio.*
+Sviluppo frontend con HTML5, CSS3, JavaScript vanilla. DOM manipulation, event handling, fetch API. Responsive design con CSS Grid e Flexbox. Introduzione a un framework frontend moderno (React o Vue). Web storage, sessioni, cookie.
 
-1. *Da compilare*
+## Competenze acquisite
 
----
-
-*Ultima modifica: 2026-07-23*
+Costruzione di interfacce web responsive, programmazione JavaScript lato client, consumo di API REST, gestione dello stato dell'applicazione nel browser.

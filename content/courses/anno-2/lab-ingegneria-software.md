@@ -8,14 +8,14 @@ cfu: 3
 
 # Lab. Ingegneria del Software
 
-**Anno 2: Secondo Semestre** | 3 CFU | [[anno-2/ingegneria-del-software|Ingegneria del Software]]
+**Anno 2: Secondo Semestre** | 3 CFU
 
-## Procedure
+Collegato a: [[anno-2/ingegneria-del-software|Ingegneria del Software]]
 
-*Scrivi le procedure FROM MEMORY dopo ogni laboratorio.*
+## Contenuti
 
-1. *Da compilare*
+Laboratorio di ingegneria del software. Lavoro in team con metodologia Agile/Scrum. Gestione del progetto con GitHub Projects e issue tracking. Documentazione di requisiti e architettura software. Implementazione di design pattern (MVC, Observer, Factory). Testing: unit test, integration test, end-to-end test.
 
----
+## Competenze acquisite
 
-*Ultima modifica: 2026-07-23*
+Lavoro in team di sviluppo Agile, scrittura di specifiche tecniche, applicazione di design pattern in progetti reali, testing automatizzato su più livelli.
