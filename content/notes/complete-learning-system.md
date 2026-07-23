@@ -6,6 +6,45 @@ title: The Complete Learning System — All Evidence-Based Frameworks Unified
 
 **A unified synthesis of every evidence-based learning framework. Built from 30+ sources across cognitive psychology, spaced repetition research, and real-world student methods.**
 
+## System Architecture
+
+```mermaid
+flowchart TB
+    subgraph FOUNDATIONS["EVIDENCE-BASED FOUNDATIONS"]
+        DUN["Dunlosky 2013<br/>Scientific Rankings"]
+        LS["Learning Scientists<br/>6 Core Strategies"]
+        SM["SuperMemo 20 Rules<br/>Wozniak 1999"]
+        GOAT["GOAT ME Method<br/>u/Salticido"]
+    end
+
+    subgraph METHODS["LEARNING METHODS"]
+        RET["Retrieval Practice"]
+        SPA["Spaced Repetition"]
+        ELA["Elaboration"]
+        INT["Interleaving"]
+        DUA["Dual Coding"]
+        CON["Concrete Examples"]
+    end
+
+    subgraph SYSTEMS["KNOWLEDGE SYSTEMS"]
+        ZK["Zettelkasten<br/>Luhmann 1960s"]
+        EV["Evergreen Notes<br/>Matuschak 2020"]
+        ORG["Org-Roam<br/>Neuper 2024"]
+        QTZ["Quartz v5<br/>Our System"]
+    end
+
+    subgraph OUTPUT["OUTPUT"]
+        EXAM["Exam Success"]
+        DEEP["Deep Understanding"]
+        RETENTION["Lifetime Retention"]
+    end
+
+    DUN & LS & SM & GOAT --> METHODS
+    RET & SPA & ELA & INT & DUA & CON --> SYSTEMS
+    ZK & EV & ORG --> QTZ
+    QTZ --> OUTPUT
+```
+
 ---
 
 ## The 6 Core Strategies (Learning Scientists)
@@ -145,6 +184,34 @@ The definitive guide to formulating knowledge for spaced repetition.
 
 ## The Daily Routine
 
+```mermaid
+gantt
+    title Daily Study Schedule
+    dateFormat HH:mm
+    axisFormat %H:%M
+    
+    section Morning
+    Walk & Movement           :07:00, 10min
+    Hardest Subject (25/5)   :07:10, 50min
+    Hardest Subject (25/5)   :08:00, 50min
+    
+    section Midday
+    Moderate Subject (25/5)  :09:00, 50min
+    Switch Topic (Interleave):09:50, 50min
+    Light Review Only        :12:30, 30min
+    
+    section Afternoon
+    Practice Problems        :14:00, 60min
+    Lab Work / Coding        :15:00, 60min
+    Lab Work / Coding        :16:00, 60min
+    
+    section Evening
+    Review Morning Material  :19:00, 30min
+    Dopamine Journal         :19:30, 10min
+    No Screens               :21:30, 30min
+    Sleep (Consolidation)    :22:00, 480min
+```
+
 | Time | Action | Memory System |
 |------|--------|--------------|
 | Morning | 10 min walk. Hardest subject first. 25/5 cycles. | Working memory at peak |
@@ -157,6 +224,25 @@ The definitive guide to formulating knowledge for spaced repetition.
 ---
 
 ## The Recall Schedule (Non-Negotiable)
+
+```mermaid
+timeline
+    title Memory Consolidation Timeline
+    section Day 0
+      Immediate : Close book, recall aloud
+      +1 hour : Read your sentence, test recall
+      +3 hours : Say concept while active
+      Before sleep : Review all sentences aloud
+    section Day 1
+      Next morning : Sleep consolidated memory
+      Explain without looking : Test what survived
+    section Day 3
+      Quick vocal recall : Moving to cortex
+    section Day 7
+      2-minute check : Long-term memory forming
+    section Day 30
+      Final check : Permanent semantic memory
+```
 
 | When | Action | Time |
 |------|--------|------|
@@ -171,7 +257,48 @@ The definitive guide to formulating knowledge for spaced repetition.
 
 ---
 
-## The Note Template
+## The Note Pipeline
+
+```mermaid
+flowchart LR
+    LECTURE["Lecture<br/>Listen, don't write"] --> RECALL["Same Evening<br/>Write FROM MEMORY"]
+    RECALL --> NOTE["Create Note<br/>One concept per file"]
+    NOTE --> LINK["Add wikilinks<br/>Connect to existing notes"]
+    LINK --> PUSH["git push<br/>Auto-deploy"]
+    PUSH --> GRAPH["Knowledge Graph<br/>Backlinks + visualization"]
+    GRAPH --> REVIEW["Review<br/>Recall schedule"]
+    REVIEW --> LECTURE
+```
+
+## Anki Card States
+
+```mermaid
+stateDiagram-v2
+    [*] --> New: Card created
+    New --> Learning: First review
+    Learning --> Learning: Again (step 1)
+    Learning --> Review: Good (graduates)
+    Learning --> Review: Easy (graduates)
+    Review --> Review: Good/Easy
+    Review --> Relearn: Again (forgot)
+    Relearn --> Relearn: Again (step 1)
+    Relearn --> Review: Good (graduates)
+    Review --> [*]: Suspended
+```
+
+## The Complete Note-Taking State Machine
+
+```mermaid
+stateDiagram-v2
+    [*] --> Inbox: Capture fleeting thought
+    Inbox --> Literature: Process reading notes
+    Literature --> Zettel: Atomize into concepts
+    Zettel --> Structure: Patterns emerge
+    Structure --> Output: Write/publish
+    Output --> Review: Spaced recall
+    Review --> Zettel: Update & refine
+    Zettel --> [*]: Permanent knowledge
+```
 
 Every note should follow this structure:
 
