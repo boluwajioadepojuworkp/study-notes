@@ -11,7 +11,7 @@ cfu: 3
 
 ## Contenuti
 
-Unity 3D: interfaccia, GameObject, componenti, prefab. Scripting in C# per Unity. Fisica e collisioni. Raycasting e interazione con oggetti. Sviluppo per visori VR: Oculus Quest, interazione con controller. Realtà aumentata con AR Foundation.
+Unity 3D: interfaccia, GameObject, componenti, prefab, scene. Scripting in C# per Unity: MonoBehaviour, Update, FixedUpdate. Fisica e collisioni: Rigidbody, Collider, triggers. Raycasting e interazione con oggetti 3D. Sviluppo per visori VR: Oculus Quest, interazione con controller, locomotion. Realtà aumentata: AR Foundation, plane detection, image tracking.
 
 ## Competenze acquisite
 

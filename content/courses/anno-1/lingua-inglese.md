@@ -11,9 +11,9 @@ cfu: 3
 
 ## Contenuti
 
-Reading comprehension di testi tecnico-scientifici in informatica. Academic writing: struttura di report e essay. Listening: conferenze e presentazioni tecniche. Speaking: presentazioni orali su argomenti IT. Vocabolario tecnico: terminology specifica del settore.
+Reading comprehension di testi tecnico-scientifici in informatica. Academic writing: struttura di report, essay, abstract. Listening: conferenze e presentazioni tecniche, TED talks. Speaking: presentazioni orali su argomenti IT, discussioni di gruppo. Vocabolario tecnico: terminology specifica di programmazione, reti, AI, cybersecurity.
 
 ## Competenze acquisite
 
-Comprensione e produzione di testi tecnici in inglese, presentazioni orali professionali, partecipazione a discussioni tecniche in lingua inglese.
+Comprensione e produzione di testi tecnici in inglese, presentazioni orali professionali, partecipazione a discussioni tecniche in lingua inglese, scrittura di documentazione tecnica.
 

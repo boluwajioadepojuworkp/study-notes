@@ -11,9 +11,9 @@ cfu: 3
 
 ## Contenuti
 
-Git e GitHub: clone, commit, push, pull, branch, merge, pull request. Linux shell: navigazione, permessi, pipe, scripting bash. Markdown e documentazione tecnica. Licenze open source: GPL, MIT, Apache, Creative Commons. Contribuzione a progetti open source.
+Git e GitHub: clone, commit, push, pull, branch, merge, pull request, risoluzione conflitti. Linux shell: navigazione, permessi, pipe, scripting bash, variabili d'ambiente. Markdown e documentazione tecnica. Licenze open source: GPL, MIT, Apache, Creative Commons. Contribuzione a progetti open source: fork, issue, pull request.
 
 ## Competenze acquisite
 
-Gestione professionale del version control, amministrazione base Linux, scrittura di documentazione in Markdown, contribuzione a repository pubbliche.
+Gestione professionale del version control, amministrazione base Linux, scrittura di documentazione in Markdown, contribuzione a repository pubbliche su GitHub.
 
