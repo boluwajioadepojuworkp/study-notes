@@ -178,3 +178,9 @@ Wozniak's first 16 rules are ALL about **making knowledge SIMPLE**. Our entire C
 ---
 
 *Source: [supermemo.com/en/blog/twenty-rules-of-formulating-knowledge](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge): Dr. Piotr Wozniak, February 1999. The single most influential article on knowledge formulation in the history of learning science.*
+
+## Related
+
+- [[dunlosky-2013-study-techniques]]
+- [[complete-learning-system]]
+- [[goat-me-method]]

@@ -54,3 +54,9 @@ If understanding required only exposure, every student who attended every lectur
 This is uncomfortable because it reveals what you do not know. It is easier to highlight a sentence and feel accomplished. It is harder to close the book and ask: what did I just learn, in my own words?
 
 Choose the harder path. It is the only one that leads anywhere.
+
+## Related
+
+- [[evergreen-notes]]
+- [[knowledge-work-compounds]]
+- [[how-i-write-notes]]

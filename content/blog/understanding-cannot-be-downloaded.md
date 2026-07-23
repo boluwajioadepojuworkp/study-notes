@@ -11,3 +11,9 @@ This is why lectures do not work the way we think they do. Sitting in a lecture 
 Writing forces this. When you sit down to write about something you think you understand, the gaps reveal themselves immediately. The fuzzy parts become obvious. The connections you thought existed turn out to be missing. Every gap you find and fill makes the understanding real.
 
 Read more at [[notes/understanding-requires-struggle|Why Understanding Requires Struggle]].
+
+## Related
+
+- [[understanding-requires-struggle]]
+- [[evergreen-notes]]
+- [[how-i-write-notes]]

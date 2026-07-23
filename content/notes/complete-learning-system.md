@@ -351,3 +351,9 @@ date: YYYY-MM-DD
 ---
 
 *This unified framework synthesizes: Learning Scientists (6 strategies), Dunlosky et al. (2013), SuperMemo 20 Rules (Wozniak), GOAT ME method (u/Salticido), Make It Stick (Brown), Zettelkasten/Evergreen Notes (Luhmann/Matuschak), our note-taking workflow, Anki FSRS, and the COME STUDIARE method.*
+
+## Related
+
+- [[goat-me-method]]
+- [[dunlosky-2013-study-techniques]]
+- [[supermemo-20-rules]]

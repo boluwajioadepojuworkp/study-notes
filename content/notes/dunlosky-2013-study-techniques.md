@@ -49,3 +49,9 @@ Everything else: elaboration, interleaving, mind maps, physical anchors: are amp
 ---
 
 *Source: Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology. Psychological Science in the Public Interest, 14(1), 4-58.*
+
+## Related
+
+- [[goat-me-method]]
+- [[complete-learning-system]]
+- [[supermemo-20-rules]]

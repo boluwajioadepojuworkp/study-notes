@@ -91,3 +91,11 @@ My tools are deliberately simple. Plain text files. Wikilinks with `[[double bra
 The technology does not matter much. You could do this with index cards on a desk. What matters is the practice: every day, one or two atomic notes, each linked to something, each titled with a claim, each revised whenever you pass through it again.
 
 After a year, you have not just a collection of notes. You have a thinking environment: a second brain that actually remembers, actually connects, actually thinks.
+
+## Related
+
+- [[evergreen-notes]]
+- [[note-titles-as-apis]]
+- [[writing-from-reading]]
+- [[knowledge-work-compounds]]
+- [[the-writing-inbox]]

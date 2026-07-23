@@ -26,3 +26,9 @@ This creates a markdown file in the course folder with:
 ```bash
 ./tools/highlight-to-note.sh tools/example-highlights.md "Machine Learning"
 ```
+
+## Related
+
+- [[latex-templates]]
+- [[how-i-write-notes]]
+- [[processing-reading]]

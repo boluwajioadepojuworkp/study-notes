@@ -27,3 +27,9 @@ I can sustain this practice for about two to three hours, with five-minute break
 ## Signs Something Is Wrong
 
 If none of these steps produce anything for several days, something is broken. My inputs are not varied enough. I am not giving myself the right kind of creative space. The writing inbox should always feel abundant: a cornucopia of prompts waiting to be developed. If it feels empty, I have stopped paying attention to the world.
+
+## Related
+
+- [[daily-log]]
+- [[the-writing-inbox]]
+- [[knowledge-work-compounds]]

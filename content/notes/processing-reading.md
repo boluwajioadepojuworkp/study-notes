@@ -45,3 +45,9 @@ To avoid a proliferation of anxiety-inducing tabs and a terrifying folder of PDF
 Items in the reading inbox get one of four fates: trashed (not worth reading), read deeply (with annotations and processing), read shallowly (skimmed and filed), or deferred to a specific list like "recipes to cook."
 
 The inbox must be drained regularly. An inbox that accumulates indefinitely stops being useful: it becomes another source of anxiety.
+
+## Related
+
+- [[writing-from-reading]]
+- [[the-writing-inbox]]
+- [[morning-writing-practice]]

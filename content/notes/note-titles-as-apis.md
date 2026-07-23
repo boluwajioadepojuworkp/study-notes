@@ -55,3 +55,8 @@ Question-titles create productive pressure. They demand that the note eventually
 When your notes have sharp, declarative titles, you can compose them. Just as a programmer calls `authenticateUser()` without reading its implementation, you can reference "The spacing effect makes memories more durable through distributed practice" without re-reading the note. You trust the title. You know what it contains.
 
 Over time, this abstraction layer compounds. You write new notes that reference ten other notes by title, each of which references ten more. The titles become the interface to your entire knowledge graph. You think in claims, not in file names.
+
+## Related
+
+- [[how-i-write-notes]]
+- [[evergreen-notes]]

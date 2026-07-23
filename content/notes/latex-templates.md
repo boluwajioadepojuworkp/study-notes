@@ -24,3 +24,7 @@ Ready-to-use LaTeX templates for essays, projects, homework, and articles: built
 - LaTeX is the standard for professional math and CS formatting
 - These templates are tested in real university courses
 - Works with any LaTeX distribution (TeX Live recommended)
+
+## Related
+
+- [[highlight-converter]]

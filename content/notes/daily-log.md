@@ -25,3 +25,8 @@ The daily log is comfortable: easy to dump things into. But it also feels imperm
 ## As Drafting Space
 
 Sometimes I use the daily log as a drafting space. I write a rough version of an idea directly in the log: messy, unstructured, stream-of-consciousness. If it turns out well, I extract it into an evergreen note. The log absorbs the mess. The note captures the result.
+
+## Related
+
+- [[morning-writing-practice]]
+- [[the-writing-inbox]]

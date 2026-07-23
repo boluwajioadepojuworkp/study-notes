@@ -58,3 +58,9 @@ I write notes for maybe 5% of what I read. That 5% is what compounds.
 When I write a note about a concept from one book, and six months later I read another book about the same concept, I do not start from scratch. I open my existing note. I see what I already understood. I compare. The new book might confirm, contradict, extend, or reframe. I update the note.
 
 After a few years, that note has been revised ten times, enriched by five different sources, linked to twenty other notes. It is no longer a "book summary." It is a thinking artifact: denser and more precise than any single source.
+
+## Related
+
+- [[how-i-write-notes]]
+- [[processing-reading]]
+- [[the-writing-inbox]]

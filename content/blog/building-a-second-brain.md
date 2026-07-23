@@ -13,3 +13,10 @@ My notes think. They evolve. Every time I open an old note, I revise it. Every t
 The core principles: one note, one idea. Organized by concept, not by source. Densely linked. Titled with a declarative claim. Written for my future self, not an audience.
 
 Read the full system at [[notes/how-i-write-notes|How I Write Notes That Actually Think]].
+
+## Related
+
+- [[how-i-write-notes]]
+- [[evergreen-notes]]
+- [[knowledge-work-compounds]]
+- [[morning-writing-practice]]

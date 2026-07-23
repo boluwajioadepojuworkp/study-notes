@@ -41,3 +41,9 @@ I never ask "where should I put this note?" The answer is always the same: in th
 When I need to find something, I do not browse folders. I search. I follow links. I use the graph view to see clusters. The navigation is associative: I start from one idea and follow the trails to others.
 
 This feels unfamiliar at first. We are trained to think in hierarchies: folders, outlines, tree structures. But the discomfort is productive. It forces you to think about how ideas actually relate, rather than where they can be conveniently filed.
+
+## Related
+
+- [[evergreen-notes]]
+- [[how-i-write-notes]]
+- [[note-titles-as-apis]]

@@ -62,3 +62,8 @@ Some prefer this ordering: **M**atch conditions → **O**rganize → **R**ecall 
 ---
 
 *This 8,041-point Reddit comment is the single most influential piece of study advice ever shared on the internet. Our entire COME STUDIARE method is an expanded, adapted version of these principles for brains with severe memory challenges.*
+
+## Related
+
+- [[complete-learning-system]]
+- [[dunlosky-2013-study-techniques]]

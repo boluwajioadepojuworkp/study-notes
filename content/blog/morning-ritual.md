@@ -13,3 +13,9 @@ This is the hardest cognitive work I do, which is exactly why it comes first. By
 The ritual is simple: open the writing inbox, flip through prompts, draft an evergreen note, link it to existing notes. Repeat. Over a year, this produces a network of interconnected ideas that becomes the foundation for everything else.
 
 Read the full practice at [[notes/morning-writing-practice|The Morning Practice]] and [[notes/the-writing-inbox|The Writing Inbox]].
+
+## Related
+
+- [[morning-writing-practice]]
+- [[daily-log]]
+- [[the-writing-inbox]]

@@ -46,3 +46,9 @@ Most knowledge workers have no system for accumulation. Their outputs: emails, c
 The result: after ten years in a field, someone might have the same depth of understanding they had after three. The experience accumulated in their intuition, but not in any structured, revisable, connectable form. They got better at their job through repetition, not through compounding insight.
 
 The alternative is not complicated. Write down what you think. Make each thought atomic. Link it to existing thoughts. Revise whenever you pass through. That is the entire system. The rest is just showing up every day.
+
+## Related
+
+- [[evergreen-notes]]
+- [[how-i-write-notes]]
+- [[understanding-requires-struggle]]

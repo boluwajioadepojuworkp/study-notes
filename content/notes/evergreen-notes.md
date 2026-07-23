@@ -47,3 +47,10 @@ After a year, the compound effect is dramatic. When I sit down to write an essay
 Not everything is evergreen-worthy. Most of what I encounter: news, casual reading, lecture slides I already understand: gets at most a fleeting highlight.
 
 The filter: if I cannot write a complete declarative sentence as the title, the idea is not ready. It stays in the inbox until it crystallizes. Most ideas never do. That is fine.
+
+## Related
+
+- [[how-i-write-notes]]
+- [[knowledge-work-compounds]]
+- [[against-folders]]
+- [[understanding-requires-struggle]]

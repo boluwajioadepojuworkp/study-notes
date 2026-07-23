@@ -35,9 +35,14 @@ I study using the [[come-studiare/5-step-method|5-Step Method]]. After each stud
 
 ## Reference Notes
 
-- [[notes/index|Methods & Tools]]
-- [[notes/how-i-write-notes|My Note-Writing System]]
+- [[notes/index|Methods and Tools: Full Index]]
+- [[notes/how-i-write-notes|My Note Writing System]]
 - [[notes/evergreen-notes|Evergreen Notes: Thinking in Writing]]
+- [[notes/memory-loop|The Memory Loop: How Encoding, Storage, and Retrieval Work]]
+- [[notes/anki-mastery-levels|The Four Levels of Anki Mastery]]
+- [[notes/eat-flashcard-principles|EAT: The Three Principles of Effective Flashcards]]
+- [[notes/tool-first-thinking|Why Tool First Thinking Destroys Efficiency]]
+- [[notes/bloom-test|The Bloom Test: Know Before You Card]]
 - [[notes/highlight-converter|Book Highlight Converter]]
 - [[notes/latex-templates|Academic Templates]]
 

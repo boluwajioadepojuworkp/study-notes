@@ -58,3 +58,10 @@ I do not capture:
 - Vague feelings without a concrete observation attached
 
 The filter is simple: will I still care about this next week? If I am not sure, it goes in the inbox. The morning processing will answer the question.
+
+## Related
+
+- [[processing-reading]]
+- [[writing-from-reading]]
+- [[daily-log]]
+- [[morning-writing-practice]]

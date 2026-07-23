@@ -18,3 +18,8 @@ This site has a built-in interactive knowledge graph: every note is a node, ever
 - Each line = a wikilink between two notes.
 - Hover over a dot to see the note title.
 - Click a dot to open that note.
+
+## Related
+
+- [[index]]
+- [[how-i-write-notes]]
