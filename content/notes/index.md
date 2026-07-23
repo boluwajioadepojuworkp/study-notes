@@ -15,8 +15,10 @@ Reference notes about methods, tools, and systems I use.
 ## Note-Taking Systems
 - [[notes/how-i-write-notes|How I Write Notes That Actually Think — My Complete System]]
 - [[notes/evergreen-notes|Evergreen Notes — Thinking in Writing]]
-- [[notes/neuper-note-method|Michael Neuper's Note Method]]
-- [[notes/supermemo-20-rules|SuperMemo — 20 Rules of Formulating Knowledge (Wozniak)]]
+- [[notes/note-titles-as-apis|Note Titles Are Claims, Not Topics]]
+- [[notes/writing-from-reading|How I Turn Reading Into Permanent Notes]]
+- [[notes/the-writing-inbox|The Writing Inbox — Capture Now, Think Later]]
+- [[notes/supermemo-20-rules|SuperMemo — 20 Rules of Formulating Knowledge]]
 - [[notes/graph-view-guide|How to Use the Knowledge Graph]]
 
 ## Tools
