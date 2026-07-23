@@ -14,6 +14,10 @@ I study using the [[come-studiare/5-step-method|5-Step Method]]. After each stud
 
 - [[courses/index|All Courses]]
 
+## Mathematics Reference
+
+- [[math/index|Complete Math Reference]] — Algebra through Differential Equations (Paul's Notes)
+
 ## My Study System
 
 - [[come-studiare/index|How I Study (COME STUDIARE)]]
