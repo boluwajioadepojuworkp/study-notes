@@ -1,47 +1,62 @@
-name: Watch Michael Neuper Updates
+name: Watch Neuper Updates (Daily)
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Every day at 6 AM UTC
-  workflow_dispatch:       # Manual trigger
+    - cron: '0 6 * * *'    # Every day at 6 AM UTC
+    - cron: '0 18 * * *'   # Also at 6 PM UTC (backup)
+  workflow_dispatch:         # Manual trigger anytime
+
+permissions:
+  contents: read
+  issues: write
 
 jobs:
-  check-updates:
+  check-neuper:
     runs-on: ubuntu-latest
     steps:
-      - name: Check Neuper's blog for new posts
+      - name: Check Neuper's Blog
+        id: blog
         run: |
-          echo "Checking https://michaelneuper.com/posts/ for new content..."
-          curl -s https://michaelneuper.com/posts/ | grep -o 'posts/[^"]*' | head -20 > /tmp/neuper-posts.txt
-          echo "Latest posts:"
+          echo "=== Checking https://michaelneuper.com/posts/ ==="
+          curl -sL https://michaelneuper.com/posts/ | grep -oP 'posts/[^"]+' | sort -u > /tmp/neuper-posts.txt
+          echo "Latest posts found:"
           cat /tmp/neuper-posts.txt
+          echo "posts_count=$(wc -l < /tmp/neuper-posts.txt)" >> $GITHUB_OUTPUT
 
-      - name: Check Neuper's doom emacs config
+      - name: Check doom emacs config
+        id: doom
         run: |
-          echo "Checking https://github.com/michaelneuper/doom for updates..."
-          curl -s https://api.github.com/repos/michaelneuper/doom/commits | grep -m 1 '"sha"' | cut -d'"' -f4 > /tmp/doom-sha.txt
-          echo "Latest doom commit: $(cat /tmp/doom-sha.txt)"
+          echo "=== Checking michaelneuper/doom ==="
+          LATEST=$(curl -s https://api.github.com/repos/michaelneuper/doom/commits/main | grep -m1 '"sha"' | cut -d'"' -f4 | cut -c1-7)
+          echo "Latest commit: $LATEST"
+          echo "doom_sha=$LATEST" >> $GITHUB_OUTPUT
 
-      - name: Check publish-org-roam-ui fork
+      - name: Check publish-org-roam-ui
+        id: orui
         run: |
-          echo "Checking https://github.com/michaelneuper/publish-org-roam-ui for updates..."
-          curl -s https://api.github.com/repos/michaelneuper/publish-org-roam-ui/commits | grep -m 1 '"sha"' | cut -d'"' -f4 > /tmp/orui-sha.txt
-          echo "Latest ORUI commit: $(cat /tmp/orui-sha.txt)"
+          echo "=== Checking michaelneuper/publish-org-roam-ui ==="
+          LATEST=$(curl -s https://api.github.com/repos/michaelneuper/publish-org-roam-ui/commits/main | grep -m1 '"sha"' | cut -d'"' -f4 | cut -c1-7)
+          echo "Latest commit: $LATEST"
+          echo "orui_sha=$LATEST" >> $GITHUB_OUTPUT
 
       - name: Check koreader-org-converter
+        id: koreader
         run: |
-          echo "Checking https://github.com/michaelneuper/koreader-org-converter for updates..."
-          curl -s https://api.github.com/repos/michaelneuper/koreader-org-converter/commits | grep -m 1 '"sha"' | cut -d'"' -f4 > /tmp/koreader-sha.txt
-          echo "Latest koreader commit: $(cat /tmp/koreader-sha.txt)"
+          echo "=== Checking michaelneuper/koreader-org-converter ==="
+          LATEST=$(curl -s https://api.github.com/repos/michaelneuper/koreader-org-converter/commits/main | grep -m1 '"sha"' | cut -d'"' -f4 | cut -c1-7)
+          echo "Latest commit: $LATEST"
+          echo "koreader_sha=$LATEST" >> $GITHUB_OUTPUT
 
-      - name: Create issue if new content found
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const fs = require('fs');
-            const posts = fs.readFileSync('/tmp/neuper-posts.txt', 'utf8');
-            const doom = fs.readFileSync('/tmp/doom-sha.txt', 'utf8').trim();
-            
-            // Store hashes for comparison next run
-            // If different from last run, create an issue notifying you
-            console.log('Neuper watch complete. Check run logs for details.');
+      - name: Summary
+        run: |
+          echo "## Neuper Watch Report" >> $GITHUB_STEP_SUMMARY
+          echo "**Run time:** $(date -u)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Source | Status |" >> $GITHUB_STEP_SUMMARY
+          echo "|--------|--------|" >> $GITHUB_STEP_SUMMARY
+          echo "| Blog posts | ${{ steps.blog.outputs.posts_count }} posts found |" >> $GITHUB_STEP_SUMMARY
+          echo "| doom config | ${{ steps.doom.outputs.doom_sha }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| publish-org-roam-ui | ${{ steps.orui.outputs.orui_sha }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| koreader-converter | ${{ steps.koreader.outputs.koreader_sha }} |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Next check: $(date -u -d '+12 hours')" >> $GITHUB_STEP_SUMMARY
