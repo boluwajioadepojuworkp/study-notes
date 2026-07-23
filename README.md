@@ -1,34 +1,35 @@
-# My Study Notes — Digital Knowledge Graph
+# Study Notes — Personal Knowledge Graph
 
-> Built with [Quartz](https://quartz.jzhao.xyz/) v5. Inspired by Michael Neuper's Org-Roam system and Andy Matuschak's Evergreen Notes. Adapted for the COME STUDIARE method.
+A structured digital knowledge management system designed for STEM students. Built on evidence-based learning principles from cognitive psychology and spaced repetition research.
 
-## What This Is
+## Methodology
 
-This is my **external brain**. Every concept I learn becomes a note, written FROM MEMORY (not copied), linked to related concepts. Over time, these notes form a knowledge graph that shows how everything connects.
+This system implements retrieval practice, distributed practice, elaboration, interleaving, concrete examples, and dual coding — the six strategies identified by cognitive psychologists as having the strongest empirical support for improving long-term retention.
 
-## How I Use It
+Notes are written from memory after each study session, not transcribed during lectures. Each concept receives its own atomic note, interconnected through wikilinks that form a navigable knowledge graph. The graph visualizes conceptual relationships and identifies knowledge gaps.
 
-1. **Study** using the 5-Step Method — read aloud, recall, write one sentence
-2. **Write a note** here for each concept learned — use the note template
-3. **Link concepts** using `[[wikilinks]]` — the graph grows automatically
-4. **Push to GitHub** — the site auto-deploys
-5. **Review** using the recall schedule (1h, 3h, bedtime, next day, 3 days, 1 week)
+## Architecture
+
+```mermaid
+flowchart LR
+    STUDY[Study Session] --> RECALL[Write from Memory]
+    RECALL --> NOTE[Atomic Note]
+    NOTE --> LINK[Wikilinks]
+    LINK --> GRAPH[Knowledge Graph]
+    GRAPH --> DEPLOY[Auto-Deploy]
+```
 
 ## Structure
 
 ```
 content/
-  index.md                  Main hub
-  courses/                  All my courses
-    index.md
-    course-name/            One folder per course
-      topic-01.md           One note per concept
-      topic-02.md
-  come-studiare/            My study method
-    5-step-method.md
-    3-pass-system.md
-    recall-schedule.md
-  templates/                Note templates (not published)
+  index.md              Entry point
+  courses/              Course-specific notes
+    anno-1/             Year 1 — Completed
+    anno-2/             Year 2 — Current
+  come-studiare/        Study methodology documentation
+  notes/                Reference materials on learning science
+  templates/            Note templates
 ```
 
 ## Local Development
@@ -39,16 +40,13 @@ npx quartz plugin install
 npx quartz build --serve
 ```
 
-Open http://localhost:8080
+## Deployment
 
-## Auto-Deploy
+Push to the `main` branch. GitHub Actions builds the Quartz site and deploys to GitHub Pages automatically. No manual intervention required.
 
-Push to `main` → GitHub Actions builds → deploys to GitHub Pages. No manual steps needed.
+## References
 
-## Credits
-
-- Note-taking method adapted from [Michael Neuper's Org-Roam system](https://michaelneuper.com/posts/how-i-use-org-roam-to-takes-notes-for-cs/)
-- Study techniques from COME STUDIARE — evidence-based method for brains that forget immediately
-- Site generator: [Quartz v5](https://quartz.jzhao.xyz/) by Jacky Zhao
-- Concept: [Evergreen Notes](https://notes.andymatuschak.org/) by Andy Matuschak
-- Original method: Zettelkasten by Niklas Luhmann
+- Dunlosky, Rawson, Marsh, Nathan, & Willingham (2013). Improving Students' Learning With Effective Learning Techniques. *Psychological Science in the Public Interest*.
+- Wozniak, P. (1999). Effective Learning: Twenty Rules of Formulating Knowledge. SuperMemo.
+- Weinstein, Y., & Sumeracki, M. (2019). *Understanding How We Learn: A Visual Guide*. Routledge.
+- Ahrens, S. (2017). *How to Take Smart Notes*. Sönke Ahrens.
