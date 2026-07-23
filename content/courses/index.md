@@ -20,4 +20,4 @@ title: All Courses
 
 ---
 
-> **Method:** After each lecture, write one note per concept FROM MEMORY. Use the [[templates/note-template|note template]]. Link concepts with [[wikilinks]]. The graph grows with every note.
+> **Method:** After each lecture, write one note per concept FROM MEMORY. Use the [[templates/note-template|note template]]. Link concepts with notes are linked together. The graph grows with every note.

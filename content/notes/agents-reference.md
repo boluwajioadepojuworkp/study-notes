@@ -44,12 +44,11 @@ draft: true
 **Knowledge base:**
 - `/home/boadepoju/ME/notes-site/content/templates/note-template.md`
 - `/home/boadepoju/ME/notes-site/content/notes/how-i-write-notes.md`
-- `/home/boadepoju/ME/notes-site/content/notes/matuschak-complete-system.md`
 
 **Rules:**
 - Every note must be atomic: one concept per file
 - Every note must have YAML frontmatter: title, course, date
-- Every note must link to at least 2 other notes via [[wikilinks]]
+- Every note must link to at least 2 other notes via notes are linked together
 - Write from memory, not by copying from source material
 - Use the note template structure: What it is → How it works → Why it connects → My example
 - Place course notes in `content/courses/anno-X/`

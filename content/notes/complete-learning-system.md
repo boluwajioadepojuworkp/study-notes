@@ -55,7 +55,7 @@ These are the ONLY strategies with strong scientific evidence. Everything else b
 |----------|-----------|-------------------|
 | **Spaced Practice** | Spread study over time. Never cram. | [[come-studiare/recall-schedule|Recall Schedule]] (1h→3h→sleep→next day→3d→1w→1mo) |
 | **Retrieval Practice** | Bring info to mind from memory. No book. | [[come-studiare/5-step-method|Step 3: Close + Recall]] |
-| **Elaboration** | Ask why. Connect new to old. | "Why chains", teach a ghost, [[wikilinks]] |
+| **Elaboration** | Ask why. Connect new to old. | "Why chains", teach a ghost, notes are linked together |
 | **Interleaving** | Mix problem types. Don't block. | [[come-studiare/index|Implicit Memory training]] |
 | **Concrete Examples** | Abstract → concrete. Real world. | "My example" in every note template |
 | **Dual Coding** | Words + visuals together. | Voices + writing + Quartz graph |

@@ -80,7 +80,6 @@ Creates atomic, linked notes. One concept per file. Never copies: always writes 
 **Resources:**
 - [[templates/note-template|Note Template]]
 - [[notes/how-i-write-notes|How I Write Notes]]
-- [[notes/matuschak-complete-system|Matuschak's Complete System]]
 - [[notes/graph-view-guide|Graph View Guide]]
 
 ### Math Tutor
@@ -177,8 +176,6 @@ flowchart LR
 
 ### Note-Taking Systems
 - [[notes/how-i-write-notes|How I Write Notes]]
-- [[notes/matuschak-evergreen-notes|Matuschak Evergreen Notes]]
-- [[notes/matuschak-complete-system|Matuschak Complete System]]
 - [[notes/graph-view-guide|Graph View Guide]]
 
 ### Tools

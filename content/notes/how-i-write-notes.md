@@ -86,7 +86,7 @@ The filter is simple: if I cannot write a declarative title for it: one complete
 
 ## The System in Practice
 
-My tools are deliberately simple. Plain text files. Wikilinks with `[[double brackets]]`. A graph view that shows me the web of connections.
+My tools are deliberately simple. Plain text files. Wikilinks with `wikilinks`. A graph view that shows me the web of connections.
 
 The technology does not matter much. You could do this with index cards on a desk. What matters is the practice: every day, one or two atomic notes, each linked to something, each titled with a claim, each revised whenever you pass through it again.
 

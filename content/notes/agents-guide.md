@@ -50,7 +50,7 @@ Type any of these phrases in Copilot Chat: from ANY window:
 **Capabilities:**
 - Creates one atomic note per concept (never multiple ideas in one file)
 - Adds proper YAML frontmatter (title, course, date)
-- Links to at least 2 related notes via [[wikilinks]]
+- Links to at least 2 related notes via notes are linked together
 - Follows the template: What it is → How it works → Why it connects → My example
 - Places notes in the correct folder: courses, math, or notes
 - Ensures the note is written FROM MEMORY, not copied
