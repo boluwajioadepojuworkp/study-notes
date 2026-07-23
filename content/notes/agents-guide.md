@@ -16,7 +16,7 @@ Type any of these phrases in Copilot Chat — from ANY window:
 | "Review this code" or "Why isn't this working?" | **Code Reviewer** | Debugs, explains, guides — never gives complete answers. Uses "execute by hand" method. |
 | "Deploy the site" or "Fix the graph view" | **Graph Maintainer** | Manages Quartz builds, GitHub Pages deployment, link checking |
 | "Prepare me for an oral exam" or "I have a test on..." | **Exam Strategist** | Oral/written/practical exam prep. 3-sentence rule, mirror technique, trigger-action pairs. |
-| "Check if Neuper posted anything" or "What's new in learning science?" | **Resource Watcher** | Checks all monitored sources for updates |
+| "Check for learning science updates" or "What's new in learning science?" | **Resource Watcher** | Checks all monitored sources for updates |
 
 ---
 
@@ -120,14 +120,14 @@ Type any of these phrases in Copilot Chat — from ANY window:
 **Best for:** Staying updated on learning science, tools, and methods.
 
 **Capabilities:**
-- Checks Michael Neuper's blog and repos for new content
+- Checks learning science blogs and repositories for new content
 - Monitors Learning Scientists for new research posts
 - Checks Paul's Math Notes for updates
 - Watches SuperMemo blog for new articles
 - Reports changes with summaries
 
 **Real examples:**
-- "What did Neuper post this week?"
+- "Any notable updates from learning science sources?"
 - "Any new study techniques from the Learning Scientists?"
 - "Check all monitored sources for updates"
 

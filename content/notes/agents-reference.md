@@ -29,7 +29,7 @@
 
 ## Agent: Note Architect
 
-**Role:** Creates and maintains structured, linked notes in the knowledge graph. Follows Neuper's Org-Roam workflow adapted to Markdown + Quartz.
+**Role:** Creates and maintains structured, linked notes in the knowledge graph. Follows our Org-Roam workflow adapted to Markdown + Quartz.
 
 **When to invoke:**
 - User wants to create a new note from a study session
@@ -38,7 +38,7 @@
 
 **Knowledge base:**
 - `/home/boadepoju/ME/notes-site/content/templates/note-template.md`
-- `/home/boadepoju/ME/notes-site/content/notes/neuper-note-method.md`
+- `/home/boadepoju/ME/notes-site/content/notes/how-i-write-notes.md`
 - `/home/boadepoju/ME/notes-site/content/notes/matuschak-complete-system.md`
 
 **Rules:**
@@ -146,18 +146,16 @@
 **Role:** Monitors external resources for updates and new content relevant to the study system.
 
 **When to invoke:**
-- User wants to check for updates from Michael Neuper, Learning Scientists, etc.
+- User wants to check for updates from the Learning Scientists, etc.
 - User wants to incorporate new research or methods
 
 **Monitored sources:**
-- Michael Neuper's blog: `https://michaelneuper.com/posts/`
-- Michael Neuper's repos: `michaelneuper/doom`, `michaelneuper/publish-org-roam-ui`, `michaelneuper/koreader-org-converter`
 - Learning Scientists: `https://www.learningscientists.org/blog`
 - Paul's Math Notes: `https://tutorial.math.lamar.edu/`
 - SuperMemo: `https://www.supermemo.com/en/blog`
 
 **Automation:**
-- GitHub Action: `.github/workflows/watch-neuper.yml` runs daily at 6 AM and 6 PM UTC
+- GitHub Action: `.github/workflows/watch-sources.yml` runs daily at 6 AM and 6 PM UTC
 - Checks all monitored sources and reports changes
 
 ---
@@ -174,4 +172,4 @@ To invoke an agent, use: `@agent-name your request here`
 | Code Reviewer | `@code-reviewer why is my Python function returning None?` |
 | Knowledge Graph Maintainer | `@graph-maintainer the graph view isn't showing — fix it` |
 | Exam Strategist | `@exam-strategist I have an oral exam on cybersecurity next week — prepare me` |
-| Resource Watcher | `@resource-watcher check if Neuper posted anything new` |
+| Resource Watcher | `@resource-watcher check for any updates` |

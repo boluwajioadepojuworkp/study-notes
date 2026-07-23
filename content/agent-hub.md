@@ -53,10 +53,10 @@ mindmap
       Written Exams
       Practical Labs
     Resource Watcher
-      Neuper Blog
       Learning Scientists
       Pauls Math Notes
       SuperMemo
+      Our Note Sources
 ```
 
 ### Study Coach
@@ -78,7 +78,7 @@ Creates atomic, linked notes. One concept per file. Never copies — always writ
 
 **Resources:**
 - [[templates/note-template|Note Template]]
-- [[notes/neuper-note-method|Michael Neuper's Method]]
+- [[notes/how-i-write-notes|How I Write Notes]]
 - [[notes/matuschak-complete-system|Matuschak's Complete System]]
 - [[notes/graph-view-guide|Graph View Guide]]
 
@@ -131,11 +131,11 @@ Monitors external sources for updates. Runs automatically via GitHub Actions.
 **Invoke:** `@resource-watcher what's new?`
 
 **Resources:**
-- [Michael Neuper's Blog](https://michaelneuper.com/posts/)
 - [Learning Scientists](https://www.learningscientists.org/blog)
 - [Paul's Math Notes](https://tutorial.math.lamar.edu/)
 - [SuperMemo Blog](https://www.supermemo.com/en/blog)
-- GitHub Action: `.github/workflows/watch-neuper.yml` (runs 2x daily)
+- [Our Note Methodology](/notes/how-i-write-notes)
+- GitHub Action: `.github/workflows/watch-sources.yml` (runs 2x daily)
 
 ---
 
@@ -175,7 +175,7 @@ flowchart LR
 - [[notes/supermemo-20-rules|SuperMemo 20 Rules]]
 
 ### Note-Taking Systems
-- [[notes/neuper-note-method|Michael Neuper's Method]]
+- [[notes/how-i-write-notes|How I Write Notes]]
 - [[notes/matuschak-evergreen-notes|Matuschak Evergreen Notes]]
 - [[notes/matuschak-complete-system|Matuschak Complete System]]
 - [[notes/graph-view-guide|Graph View Guide]]
@@ -227,7 +227,7 @@ cd ~/ME/notes-site && git add -A && git commit -m "notes: [what you learned]" &&
 # Convert book highlights to notes
 cd ~/ME/highlight-converter && ./md2org.sh highlights.md
 
-# Check what Neuper published recently
+# Check monitored learning sources for updates
 gh run watch --repo boluwajioadepojuworkp/study-notes
 ```
 

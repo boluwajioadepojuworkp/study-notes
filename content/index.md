@@ -30,7 +30,7 @@ I study using the [[come-studiare/5-step-method|5-Step Method]]. After each stud
 ## Reference Notes
 
 - [[notes/index|Methods & Tools]]
-- [[notes/neuper-note-method|Michael Neuper's Note Method]]
+- [[notes/how-i-write-notes|My Note-Writing System]]
 - [[notes/matuschak-evergreen-notes|Andy Matuschak's Evergreen Notes]]
 - [[notes/highlight-converter|Book Highlight Converter]]
 - [[notes/latex-templates|LaTeX Templates]]

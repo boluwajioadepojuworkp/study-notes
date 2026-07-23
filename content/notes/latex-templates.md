@@ -1,14 +1,12 @@
 ---
-title: LaTeX Templates
+title: Academic Templates
 ---
 
 # LaTeX Templates for Academic Writing
 
-**Source:** Michael Neuper's [LaTeX-templates](https://github.com/michaelneuper/LaTeX-templates) repo.
+Ready-to-use LaTeX templates for essays, projects, homework, and articles — built for real university coursework at Università degli Studi di Perugia.
 
-**What it is:** Ready-to-use LaTeX templates for essays, projects, homework, and articles. Adapted from Michael Neuper's actual university templates.
-
-**Templates available in `resources/latex/`:**
+**Templates available:**
 
 | Template | File | Use For |
 |----------|------|---------|
@@ -23,10 +21,6 @@ title: LaTeX Templates
 3. Compile: `pdflatex main.tex && bibtex main && pdflatex main.tex`
 
 **Why it connects:**
-- LaTeX = professional math/CS formatting (needed for [[courses/index|all STEM courses]])
-- These templates are tested in real university courses (Stellenbosch University)
-- Paired with Neuper's [Efficient LaTeX Editing With Emacs](https://michaelneuper.com/posts/efficient-latex-editing-with-emacs/) guide
-
----
-
-*Templates located in `resources/latex/`. Original by Michael Neuper, MIT-licensed.*
+- LaTeX is the standard for professional math and CS formatting
+- These templates are tested in real university courses
+- Works with any LaTeX distribution (TeX Live recommended)

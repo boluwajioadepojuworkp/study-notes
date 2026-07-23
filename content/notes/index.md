@@ -18,6 +18,9 @@ Reference notes about methods, tools, and systems I use.
 - [[notes/note-titles-as-apis|Note Titles Are Claims, Not Topics]]
 - [[notes/writing-from-reading|How I Turn Reading Into Permanent Notes]]
 - [[notes/the-writing-inbox|The Writing Inbox — Capture Now, Think Later]]
+- [[notes/knowledge-work-compounds|Knowledge Work Should Compound]]
+- [[notes/understanding-requires-struggle|Why Understanding Requires Struggle]]
+- [[notes/against-folders|Let Structure Emerge — Against Folders and Categories]]
 - [[notes/supermemo-20-rules|SuperMemo — 20 Rules of Formulating Knowledge]]
 - [[notes/graph-view-guide|How to Use the Knowledge Graph]]
 

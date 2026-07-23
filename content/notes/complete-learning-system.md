@@ -29,7 +29,7 @@ flowchart TB
     subgraph SYSTEMS["KNOWLEDGE SYSTEMS"]
         ZK["Zettelkasten<br/>Luhmann 1960s"]
         EV["Evergreen Notes<br/>Matuschak 2020"]
-        ORG["Org-Roam<br/>Neuper 2024"]
+        ORG["Org-Roam<br/>Our Workflow"]
         QTZ["Quartz v5<br/>Our System"]
     end
 
@@ -157,7 +157,7 @@ The definitive guide to formulating knowledge for spaced repetition.
 
 ---
 
-## Michael Neuper's Student Workflow
+## Our Note-Taking Workflow
 
 1. **Don't take notes during lectures** — listen and understand
 2. **Same evening** — write notes FROM MEMORY
@@ -350,4 +350,4 @@ date: YYYY-MM-DD
 
 ---
 
-*This unified framework synthesizes: Learning Scientists (6 strategies), Dunlosky et al. (2013), SuperMemo 20 Rules (Wozniak), GOAT ME method (u/Salticido), Make It Stick (Brown), Zettelkasten/Evergreen Notes (Luhmann/Matuschak), Michael Neuper's student workflow, Anki FSRS, and the COME STUDIARE method.*
+*This unified framework synthesizes: Learning Scientists (6 strategies), Dunlosky et al. (2013), SuperMemo 20 Rules (Wozniak), GOAT ME method (u/Salticido), Make It Stick (Brown), Zettelkasten/Evergreen Notes (Luhmann/Matuschak), our note-taking workflow, Anki FSRS, and the COME STUDIARE method.*
