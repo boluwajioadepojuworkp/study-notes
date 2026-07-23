@@ -27,13 +27,19 @@ I study using the [[come-studiare/5-step-method|5-Step Method]]. After each stud
 - [[come-studiare/index|How I Study (COME STUDIARE)]]
 - [[come-studiare/recall-schedule|Recall Schedule]]
 
+## Blog
+
+- [[blog/building-a-second-brain|Building a Second Brain That Actually Thinks]]
+- [[blog/understanding-cannot-be-downloaded|Why Understanding Cannot Be Downloaded]]
+- [[blog/morning-ritual|The Morning Ritual That Changed Everything]]
+
 ## Reference Notes
 
 - [[notes/index|Methods & Tools]]
 - [[notes/how-i-write-notes|My Note-Writing System]]
-- [[notes/matuschak-evergreen-notes|Andy Matuschak's Evergreen Notes]]
+- [[notes/evergreen-notes|Evergreen Notes — Thinking in Writing]]
 - [[notes/highlight-converter|Book Highlight Converter]]
-- [[notes/latex-templates|LaTeX Templates]]
+- [[notes/latex-templates|Academic Templates]]
 
 ## Recent Notes
 
