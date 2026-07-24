@@ -26,6 +26,7 @@ Reference notes about methods, tools, and systems I use.
 - [[executable-writing-strategy]]
 - [[write-to-internalize]]
 - [[note-titles-as-apis]]
+- [[sharpening-your-notes]]
 - [[writing-from-reading]]
 - [[processing-reading]]
 - [[the-writing-inbox]]
