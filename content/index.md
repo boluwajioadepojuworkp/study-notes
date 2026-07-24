@@ -6,6 +6,8 @@ title: My Study Notes
 
 Welcome to my knowledge graph. This is where I build my understanding, one concept at a time.
 
+**[← Back to Blog](https://boluwajioadepojuworkp.github.io/)**
+
 ## How This Works
 
 I study using the [[come-studiare/5-step-method|5-Step Method]]. After each study session, I write one note from memory: not copying, but recalling. These notes grow over time and link together.
